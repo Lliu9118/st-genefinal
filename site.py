@@ -1925,7 +1925,7 @@ if option == 'UCS' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='mutationRate', 
         ))  
-    if option == 'BLCA' and option2 == 'Asian' and color == '50': 
+if option == 'BLCA' and option2 == 'Asian' and color == '50': 
    st.write(data1238BLCA50) 
    st.write(alt.Chart(data1238BLCA50).mark_bar().encode( 
  
