@@ -1,6 +1,7 @@
 import requests
 import streamlit as st
 import array as ary
+import numpy as np
 import pandas as pd
 import altair as alt
 
