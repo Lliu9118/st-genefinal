@@ -567,8 +567,8 @@ data2311BRCA1 = pd.DataFrame({'Gene': ['ENSG00000181143'] ,
 'Asian_p': [0.103448276] ,})
 
 with st.container():
-    st.title("The Gene Mutation Interactive Tool")
-    #st.subheader("Helping to go further in studies on race and cancer")
+    st.title("AVaRD")
+    st.subheader("An Interactive Tool for Analyzing and Visualizing Racial Differences in Cancer Genomics")
 with st.container():
     #st.download_button(
         #label="Download data as CSV",
