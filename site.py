@@ -389,7 +389,7 @@ if option == 'ACC' and option2 == 'Asian' and color == '1':
            y='Asian_p', 
         ))
 
-if option == 'THYM' and option2 == 'Asian' and color == 80: 
+if option == 'THYM' and option2 == 'Asian' and color == '80': 
    st.write(data16295THYM80) 
    st.write(alt.Chart(data16295THYM80).mark_bar().encode( 
  
@@ -397,7 +397,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 80:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 79: 
+if option == 'THYM' and option2 == 'Asian' and color == '79': 
    st.write(data16296THYM79) 
    st.write(alt.Chart(data16296THYM79).mark_bar().encode( 
  
@@ -405,7 +405,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 79:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 78: 
+if option == 'THYM' and option2 == 'Asian' and color == '78': 
    st.write(data16297THYM78) 
    st.write(alt.Chart(data16297THYM78).mark_bar().encode( 
  
@@ -413,7 +413,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 78:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 77: 
+if option == 'THYM' and option2 == 'Asian' and color == '77': 
    st.write(data16298THYM77) 
    st.write(alt.Chart(data16298THYM77).mark_bar().encode( 
  
@@ -421,7 +421,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 77:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 76: 
+if option == 'THYM' and option2 == 'Asian' and color == '76': 
    st.write(data16299THYM76) 
    st.write(alt.Chart(data16299THYM76).mark_bar().encode( 
  
@@ -429,7 +429,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 76:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 75: 
+if option == 'THYM' and option2 == 'Asian' and color == '75': 
    st.write(data16300THYM75) 
    st.write(alt.Chart(data16300THYM75).mark_bar().encode( 
  
@@ -437,7 +437,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 75:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 74: 
+if option == 'THYM' and option2 == 'Asian' and color == '74': 
    st.write(data16301THYM74) 
    st.write(alt.Chart(data16301THYM74).mark_bar().encode( 
  
@@ -445,7 +445,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 74:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 73: 
+if option == 'THYM' and option2 == 'Asian' and color == '73': 
    st.write(data16302THYM73) 
    st.write(alt.Chart(data16302THYM73).mark_bar().encode( 
  
@@ -453,7 +453,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 73:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 72: 
+if option == 'THYM' and option2 == 'Asian' and color == '72': 
    st.write(data16303THYM72) 
    st.write(alt.Chart(data16303THYM72).mark_bar().encode( 
  
@@ -461,7 +461,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 72:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 71: 
+if option == 'THYM' and option2 == 'Asian' and color == '71': 
    st.write(data16304THYM71) 
    st.write(alt.Chart(data16304THYM71).mark_bar().encode( 
  
@@ -469,7 +469,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 71:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 70: 
+if option == 'THYM' and option2 == 'Asian' and color == '70': 
    st.write(data16305THYM70) 
    st.write(alt.Chart(data16305THYM70).mark_bar().encode( 
  
@@ -477,7 +477,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 70:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 69: 
+if option == 'THYM' and option2 == 'Asian' and color == '69': 
    st.write(data16306THYM69) 
    st.write(alt.Chart(data16306THYM69).mark_bar().encode( 
  
@@ -485,7 +485,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 69:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 68: 
+if option == 'THYM' and option2 == 'Asian' and color == '68': 
    st.write(data16307THYM68) 
    st.write(alt.Chart(data16307THYM68).mark_bar().encode( 
  
@@ -493,7 +493,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 68:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 67: 
+if option == 'THYM' and option2 == 'Asian' and color == '67': 
    st.write(data16308THYM67) 
    st.write(alt.Chart(data16308THYM67).mark_bar().encode( 
  
@@ -501,7 +501,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 67:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 66: 
+if option == 'THYM' and option2 == 'Asian' and color == '66': 
    st.write(data16309THYM66) 
    st.write(alt.Chart(data16309THYM66).mark_bar().encode( 
  
@@ -509,7 +509,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 66:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 65: 
+if option == 'THYM' and option2 == 'Asian' and color == '65': 
    st.write(data16310THYM65) 
    st.write(alt.Chart(data16310THYM65).mark_bar().encode( 
  
@@ -517,7 +517,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 65:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 64: 
+if option == 'THYM' and option2 == 'Asian' and color == '64': 
    st.write(data16311THYM64) 
    st.write(alt.Chart(data16311THYM64).mark_bar().encode( 
  
@@ -525,7 +525,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 64:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 63: 
+if option == 'THYM' and option2 == 'Asian' and color == '63': 
    st.write(data16312THYM63) 
    st.write(alt.Chart(data16312THYM63).mark_bar().encode( 
  
@@ -533,7 +533,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 63:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 62: 
+if option == 'THYM' and option2 == 'Asian' and color == '62': 
    st.write(data16313THYM62) 
    st.write(alt.Chart(data16313THYM62).mark_bar().encode( 
  
@@ -541,7 +541,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 62:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 61: 
+if option == 'THYM' and option2 == 'Asian' and color == '61': 
    st.write(data16314THYM61) 
    st.write(alt.Chart(data16314THYM61).mark_bar().encode( 
  
@@ -549,7 +549,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 61:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 60: 
+if option == 'THYM' and option2 == 'Asian' and color == '60': 
    st.write(data16315THYM60) 
    st.write(alt.Chart(data16315THYM60).mark_bar().encode( 
  
@@ -557,7 +557,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 60:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 59: 
+if option == 'THYM' and option2 == 'Asian' and color == '59': 
    st.write(data16316THYM59) 
    st.write(alt.Chart(data16316THYM59).mark_bar().encode( 
  
@@ -565,7 +565,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 59:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 58: 
+if option == 'THYM' and option2 == 'Asian' and color == '58': 
    st.write(data16317THYM58) 
    st.write(alt.Chart(data16317THYM58).mark_bar().encode( 
  
@@ -573,7 +573,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 58:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 57: 
+if option == 'THYM' and option2 == 'Asian' and color == '57': 
    st.write(data16318THYM57) 
    st.write(alt.Chart(data16318THYM57).mark_bar().encode( 
  
@@ -581,7 +581,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 57:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 56: 
+if option == 'THYM' and option2 == 'Asian' and color == '56': 
    st.write(data16319THYM56) 
    st.write(alt.Chart(data16319THYM56).mark_bar().encode( 
  
@@ -589,7 +589,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 56:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 55: 
+if option == 'THYM' and option2 == 'Asian' and color == '55': 
    st.write(data16320THYM55) 
    st.write(alt.Chart(data16320THYM55).mark_bar().encode( 
  
@@ -597,7 +597,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 55:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 54: 
+if option == 'THYM' and option2 == 'Asian' and color == '54': 
    st.write(data16321THYM54) 
    st.write(alt.Chart(data16321THYM54).mark_bar().encode( 
  
@@ -605,7 +605,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 54:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 53: 
+if option == 'THYM' and option2 == 'Asian' and color == '53': 
    st.write(data16322THYM53) 
    st.write(alt.Chart(data16322THYM53).mark_bar().encode( 
  
@@ -613,7 +613,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 53:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 52: 
+if option == 'THYM' and option2 == 'Asian' and color == '52': 
    st.write(data16323THYM52) 
    st.write(alt.Chart(data16323THYM52).mark_bar().encode( 
  
@@ -621,7 +621,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 52:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 51: 
+if option == 'THYM' and option2 == 'Asian' and color == '51': 
    st.write(data16324THYM51) 
    st.write(alt.Chart(data16324THYM51).mark_bar().encode( 
  
@@ -629,7 +629,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 51:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 50: 
+if option == 'THYM' and option2 == 'Asian' and color == '50': 
    st.write(data16325THYM50) 
    st.write(alt.Chart(data16325THYM50).mark_bar().encode( 
  
@@ -637,7 +637,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 50:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 49: 
+if option == 'THYM' and option2 == 'Asian' and color == '49': 
    st.write(data16326THYM49) 
    st.write(alt.Chart(data16326THYM49).mark_bar().encode( 
  
@@ -645,7 +645,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 49:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 48: 
+if option == 'THYM' and option2 == 'Asian' and color == '48': 
    st.write(data16327THYM48) 
    st.write(alt.Chart(data16327THYM48).mark_bar().encode( 
  
@@ -653,7 +653,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 48:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 47: 
+if option == 'THYM' and option2 == 'Asian' and color == '47': 
    st.write(data16328THYM47) 
    st.write(alt.Chart(data16328THYM47).mark_bar().encode( 
  
@@ -661,7 +661,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 47:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 46: 
+if option == 'THYM' and option2 == 'Asian' and color == '46': 
    st.write(data16329THYM46) 
    st.write(alt.Chart(data16329THYM46).mark_bar().encode( 
  
@@ -669,7 +669,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 46:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 45: 
+if option == 'THYM' and option2 == 'Asian' and color == '45': 
    st.write(data16330THYM45) 
    st.write(alt.Chart(data16330THYM45).mark_bar().encode( 
  
@@ -677,7 +677,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 45:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 44: 
+if option == 'THYM' and option2 == 'Asian' and color == '44': 
    st.write(data16331THYM44) 
    st.write(alt.Chart(data16331THYM44).mark_bar().encode( 
  
@@ -685,7 +685,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 44:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 43: 
+if option == 'THYM' and option2 == 'Asian' and color == '43': 
    st.write(data16332THYM43) 
    st.write(alt.Chart(data16332THYM43).mark_bar().encode( 
  
@@ -693,7 +693,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 43:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 42: 
+if option == 'THYM' and option2 == 'Asian' and color == '42': 
    st.write(data16333THYM42) 
    st.write(alt.Chart(data16333THYM42).mark_bar().encode( 
  
@@ -701,7 +701,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 42:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 41: 
+if option == 'THYM' and option2 == 'Asian' and color == '41': 
    st.write(data16334THYM41) 
    st.write(alt.Chart(data16334THYM41).mark_bar().encode( 
  
@@ -709,7 +709,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 41:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 40: 
+if option == 'THYM' and option2 == 'Asian' and color == '40': 
    st.write(data16335THYM40) 
    st.write(alt.Chart(data16335THYM40).mark_bar().encode( 
  
@@ -717,7 +717,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 40:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 39: 
+if option == 'THYM' and option2 == 'Asian' and color == '39': 
    st.write(data16336THYM39) 
    st.write(alt.Chart(data16336THYM39).mark_bar().encode( 
  
@@ -725,7 +725,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 39:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 38: 
+if option == 'THYM' and option2 == 'Asian' and color == '38': 
    st.write(data16337THYM38) 
    st.write(alt.Chart(data16337THYM38).mark_bar().encode( 
  
@@ -733,7 +733,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 38:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 37: 
+if option == 'THYM' and option2 == 'Asian' and color == '37': 
    st.write(data16338THYM37) 
    st.write(alt.Chart(data16338THYM37).mark_bar().encode( 
  
@@ -741,7 +741,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 37:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 36: 
+if option == 'THYM' and option2 == 'Asian' and color == '36': 
    st.write(data16339THYM36) 
    st.write(alt.Chart(data16339THYM36).mark_bar().encode( 
  
@@ -749,7 +749,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 36:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 35: 
+if option == 'THYM' and option2 == 'Asian' and color == '35': 
    st.write(data16340THYM35) 
    st.write(alt.Chart(data16340THYM35).mark_bar().encode( 
  
@@ -757,7 +757,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 35:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 34: 
+if option == 'THYM' and option2 == 'Asian' and color == '34': 
    st.write(data16341THYM34) 
    st.write(alt.Chart(data16341THYM34).mark_bar().encode( 
  
@@ -765,7 +765,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 34:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 33: 
+if option == 'THYM' and option2 == 'Asian' and color == '33': 
    st.write(data16342THYM33) 
    st.write(alt.Chart(data16342THYM33).mark_bar().encode( 
  
@@ -773,7 +773,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 33:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 32: 
+if option == 'THYM' and option2 == 'Asian' and color == '32': 
    st.write(data16343THYM32) 
    st.write(alt.Chart(data16343THYM32).mark_bar().encode( 
  
@@ -781,7 +781,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 32:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 31: 
+if option == 'THYM' and option2 == 'Asian' and color == '31': 
    st.write(data16344THYM31) 
    st.write(alt.Chart(data16344THYM31).mark_bar().encode( 
  
@@ -789,7 +789,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 31:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 30: 
+if option == 'THYM' and option2 == 'Asian' and color == '30': 
    st.write(data16345THYM30) 
    st.write(alt.Chart(data16345THYM30).mark_bar().encode( 
  
@@ -797,7 +797,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 30:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 29: 
+if option == 'THYM' and option2 == 'Asian' and color == '29': 
    st.write(data16346THYM29) 
    st.write(alt.Chart(data16346THYM29).mark_bar().encode( 
  
@@ -805,7 +805,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 29:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 28: 
+if option == 'THYM' and option2 == 'Asian' and color == '28': 
    st.write(data16347THYM28) 
    st.write(alt.Chart(data16347THYM28).mark_bar().encode( 
  
@@ -813,7 +813,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 28:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 27: 
+if option == 'THYM' and option2 == 'Asian' and color == '27': 
    st.write(data16348THYM27) 
    st.write(alt.Chart(data16348THYM27).mark_bar().encode( 
  
@@ -821,7 +821,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 27:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 26: 
+if option == 'THYM' and option2 == 'Asian' and color == '26': 
    st.write(data16349THYM26) 
    st.write(alt.Chart(data16349THYM26).mark_bar().encode( 
  
@@ -829,7 +829,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 26:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 25: 
+if option == 'THYM' and option2 == 'Asian' and color == '25': 
    st.write(data16350THYM25) 
    st.write(alt.Chart(data16350THYM25).mark_bar().encode( 
  
@@ -837,7 +837,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 25:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 24: 
+if option == 'THYM' and option2 == 'Asian' and color == '24': 
    st.write(data16351THYM24) 
    st.write(alt.Chart(data16351THYM24).mark_bar().encode( 
  
@@ -845,7 +845,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 24:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 23: 
+if option == 'THYM' and option2 == 'Asian' and color == '23': 
    st.write(data16352THYM23) 
    st.write(alt.Chart(data16352THYM23).mark_bar().encode( 
  
@@ -853,7 +853,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 23:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 22: 
+if option == 'THYM' and option2 == 'Asian' and color == '22': 
    st.write(data16353THYM22) 
    st.write(alt.Chart(data16353THYM22).mark_bar().encode( 
  
@@ -861,7 +861,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 22:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 21: 
+if option == 'THYM' and option2 == 'Asian' and color == '21': 
    st.write(data16354THYM21) 
    st.write(alt.Chart(data16354THYM21).mark_bar().encode( 
  
@@ -869,7 +869,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 21:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 20: 
+if option == 'THYM' and option2 == 'Asian' and color == '20': 
    st.write(data16355THYM20) 
    st.write(alt.Chart(data16355THYM20).mark_bar().encode( 
  
@@ -877,7 +877,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 20:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 19: 
+if option == 'THYM' and option2 == 'Asian' and color == '19': 
    st.write(data16356THYM19) 
    st.write(alt.Chart(data16356THYM19).mark_bar().encode( 
  
@@ -885,7 +885,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 19:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 18: 
+if option == 'THYM' and option2 == 'Asian' and color == '18': 
    st.write(data16357THYM18) 
    st.write(alt.Chart(data16357THYM18).mark_bar().encode( 
  
@@ -893,7 +893,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 18:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 17: 
+if option == 'THYM' and option2 == 'Asian' and color == '17': 
    st.write(data16358THYM17) 
    st.write(alt.Chart(data16358THYM17).mark_bar().encode( 
  
@@ -901,7 +901,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 17:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 16: 
+if option == 'THYM' and option2 == 'Asian' and color == '16': 
    st.write(data16359THYM16) 
    st.write(alt.Chart(data16359THYM16).mark_bar().encode( 
  
@@ -909,7 +909,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 16:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 15: 
+if option == 'THYM' and option2 == 'Asian' and color == '15': 
    st.write(data16360THYM15) 
    st.write(alt.Chart(data16360THYM15).mark_bar().encode( 
  
@@ -917,7 +917,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 15:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 14: 
+if option == 'THYM' and option2 == 'Asian' and color == '14': 
    st.write(data16361THYM14) 
    st.write(alt.Chart(data16361THYM14).mark_bar().encode( 
  
@@ -925,7 +925,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 14:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 13: 
+if option == 'THYM' and option2 == 'Asian' and color == '13': 
    st.write(data16362THYM13) 
    st.write(alt.Chart(data16362THYM13).mark_bar().encode( 
  
@@ -933,7 +933,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 13:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 12: 
+if option == 'THYM' and option2 == 'Asian' and color == '12': 
    st.write(data16363THYM12) 
    st.write(alt.Chart(data16363THYM12).mark_bar().encode( 
  
@@ -941,7 +941,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 12:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 11: 
+if option == 'THYM' and option2 == 'Asian' and color == '11': 
    st.write(data16364THYM11) 
    st.write(alt.Chart(data16364THYM11).mark_bar().encode( 
  
@@ -949,7 +949,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 11:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 10: 
+if option == 'THYM' and option2 == 'Asian' and color == '10': 
    st.write(data16365THYM10) 
    st.write(alt.Chart(data16365THYM10).mark_bar().encode( 
  
@@ -957,7 +957,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 10:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 9: 
+if option == 'THYM' and option2 == 'Asian' and color == '9': 
    st.write(data16366THYM9) 
    st.write(alt.Chart(data16366THYM9).mark_bar().encode( 
  
@@ -965,7 +965,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 9:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 8: 
+if option == 'THYM' and option2 == 'Asian' and color == '8': 
    st.write(data16367THYM8) 
    st.write(alt.Chart(data16367THYM8).mark_bar().encode( 
  
@@ -973,7 +973,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 8:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 7: 
+if option == 'THYM' and option2 == 'Asian' and color == '7': 
    st.write(data16368THYM7) 
    st.write(alt.Chart(data16368THYM7).mark_bar().encode( 
  
@@ -981,7 +981,7 @@ if option == 'THYM' and option2 == 'Asian' and color == 7:
         y='Asian_p', 
         ))  
      
-if option == 'THYM' and option2 == 'Asian' and color == 6: 
+if option == 'THYM' and option2 == 'Asian' and color == '6': 
    st.write(data16369THYM6) 
    st.write(alt.Chart(data16369THYM6).mark_bar().encode( 
  
