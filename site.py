@@ -6079,7 +6079,8 @@ if option == 'LAML' and option2 == 'Asian' and color == '1':
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
-        )) if option == 'LAML' and option2 == 'Asian' and color == '14': 
+        )) 
+if option == 'LAML' and option2 == 'Asian' and color == '14': 
    st.write(data22277LAML14) 
    st.write(alt.Chart(data22277LAML14).mark_bar().encode( 
  
