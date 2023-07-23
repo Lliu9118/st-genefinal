@@ -9263,7 +9263,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '30':
    st.write(alt.Chart(data44422TGCT30).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '29': 
@@ -9271,7 +9271,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '29':
    st.write(alt.Chart(data44423TGCT29).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '28': 
@@ -9279,7 +9279,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '28':
    st.write(alt.Chart(data44424TGCT28).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '27': 
@@ -9287,7 +9287,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '27':
    st.write(alt.Chart(data44425TGCT27).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '26': 
@@ -9295,7 +9295,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '26':
    st.write(alt.Chart(data44426TGCT26).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '25': 
@@ -9303,7 +9303,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '25':
    st.write(alt.Chart(data44427TGCT25).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '24': 
@@ -9311,7 +9311,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '24':
    st.write(alt.Chart(data44428TGCT24).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '23': 
@@ -9319,7 +9319,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '23':
    st.write(alt.Chart(data44429TGCT23).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '22': 
@@ -9327,7 +9327,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '22':
    st.write(alt.Chart(data44430TGCT22).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '21': 
@@ -9335,7 +9335,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '21':
    st.write(alt.Chart(data44431TGCT21).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '20': 
@@ -9343,7 +9343,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '20':
    st.write(alt.Chart(data44432TGCT20).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '19': 
@@ -9351,7 +9351,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '19':
    st.write(alt.Chart(data44433TGCT19).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '18': 
@@ -9359,7 +9359,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '18':
    st.write(alt.Chart(data44434TGCT18).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '17': 
@@ -9367,7 +9367,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '17':
    st.write(alt.Chart(data44435TGCT17).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '16': 
@@ -9375,7 +9375,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '16':
    st.write(alt.Chart(data44436TGCT16).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '15': 
@@ -9383,7 +9383,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '15':
    st.write(alt.Chart(data44437TGCT15).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '14': 
@@ -9391,7 +9391,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '14':
    st.write(alt.Chart(data44438TGCT14).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '13': 
@@ -9399,7 +9399,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '13':
    st.write(alt.Chart(data44439TGCT13).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '12': 
@@ -9407,7 +9407,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '12':
    st.write(alt.Chart(data44440TGCT12).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '11': 
@@ -9415,7 +9415,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '11':
    st.write(alt.Chart(data44441TGCT11).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '10': 
@@ -9423,7 +9423,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '10':
    st.write(alt.Chart(data44442TGCT10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '9': 
@@ -9431,7 +9431,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '9':
    st.write(alt.Chart(data44443TGCT9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '8': 
@@ -9439,7 +9439,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '8':
    st.write(alt.Chart(data44444TGCT8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '7': 
@@ -9447,7 +9447,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '7':
    st.write(alt.Chart(data44445TGCT7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '6': 
@@ -9455,7 +9455,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '6':
    st.write(alt.Chart(data44446TGCT6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '5': 
@@ -9463,7 +9463,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '5':
    st.write(alt.Chart(data44447TGCT5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '4': 
@@ -9471,7 +9471,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '4':
    st.write(alt.Chart(data44448TGCT4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '3': 
@@ -9479,7 +9479,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '3':
    st.write(alt.Chart(data44449TGCT3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '2': 
@@ -9487,7 +9487,7 @@ if option == 'TGCT' and option2 == 'Asian' and color == '2':
    st.write(alt.Chart(data44450TGCT2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'TGCT' and option2 == 'Asian' and color == '1': 
@@ -9495,14 +9495,14 @@ if option == 'TGCT' and option2 == 'Asian' and color == '1':
    st.write(alt.Chart(data44451TGCT1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
 if option == 'THCA' and option2 == 'Asian' and color == '30': 
    st.write(data45436THCA30) 
    st.write(alt.Chart(data45436THCA30).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '29': 
@@ -9510,7 +9510,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '29':
    st.write(alt.Chart(data45437THCA29).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '28': 
@@ -9518,7 +9518,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '28':
    st.write(alt.Chart(data45438THCA28).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '27': 
@@ -9526,7 +9526,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '27':
    st.write(alt.Chart(data45439THCA27).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '26': 
@@ -9534,7 +9534,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '26':
    st.write(alt.Chart(data45440THCA26).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '25': 
@@ -9542,7 +9542,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '25':
    st.write(alt.Chart(data45441THCA25).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '24': 
@@ -9550,7 +9550,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '24':
    st.write(alt.Chart(data45442THCA24).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '23': 
@@ -9558,7 +9558,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '23':
    st.write(alt.Chart(data45443THCA23).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '22': 
@@ -9566,7 +9566,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '22':
    st.write(alt.Chart(data45444THCA22).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '21': 
@@ -9574,7 +9574,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '21':
    st.write(alt.Chart(data45445THCA21).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '20': 
@@ -9582,7 +9582,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '20':
    st.write(alt.Chart(data45446THCA20).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '19': 
@@ -9590,7 +9590,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '19':
    st.write(alt.Chart(data45447THCA19).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '18': 
@@ -9598,7 +9598,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '18':
    st.write(alt.Chart(data45448THCA18).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '17': 
@@ -9606,7 +9606,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '17':
    st.write(alt.Chart(data45449THCA17).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '16': 
@@ -9614,7 +9614,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '16':
    st.write(alt.Chart(data45450THCA16).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '15': 
@@ -9622,7 +9622,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '15':
    st.write(alt.Chart(data45451THCA15).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '14': 
@@ -9630,7 +9630,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '14':
    st.write(alt.Chart(data45452THCA14).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '13': 
@@ -9638,7 +9638,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '13':
    st.write(alt.Chart(data45453THCA13).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '12': 
@@ -9646,7 +9646,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '12':
    st.write(alt.Chart(data45454THCA12).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '11': 
@@ -9654,7 +9654,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '11':
    st.write(alt.Chart(data45455THCA11).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '10': 
@@ -9662,7 +9662,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '10':
    st.write(alt.Chart(data45456THCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '9': 
@@ -9670,7 +9670,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '9':
    st.write(alt.Chart(data45457THCA9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '8': 
@@ -9678,7 +9678,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '8':
    st.write(alt.Chart(data45458THCA8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '7': 
@@ -9686,7 +9686,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '7':
    st.write(alt.Chart(data45459THCA7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '6': 
@@ -9694,7 +9694,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '6':
    st.write(alt.Chart(data45460THCA6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '5': 
@@ -9702,7 +9702,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '5':
    st.write(alt.Chart(data45461THCA5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '4': 
@@ -9710,7 +9710,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '4':
    st.write(alt.Chart(data45462THCA4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '3': 
@@ -9718,7 +9718,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '3':
    st.write(alt.Chart(data45463THCA3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '2': 
@@ -9726,7 +9726,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '2':
    st.write(alt.Chart(data45464THCA2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THCA' and option2 == 'Asian' and color == '1': 
@@ -9734,14 +9734,14 @@ if option == 'THCA' and option2 == 'Asian' and color == '1':
    st.write(alt.Chart(data45465THCA1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
 if option == 'THYM' and option2 == 'Asian' and color == '30': 
    st.write(data45666THYM30) 
    st.write(alt.Chart(data45666THYM30).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '29': 
@@ -9749,7 +9749,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '29':
    st.write(alt.Chart(data45667THYM29).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '28': 
@@ -9757,7 +9757,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '28':
    st.write(alt.Chart(data45668THYM28).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '27': 
@@ -9765,7 +9765,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '27':
    st.write(alt.Chart(data45669THYM27).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '26': 
@@ -9773,7 +9773,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '26':
    st.write(alt.Chart(data45670THYM26).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '25': 
@@ -9781,7 +9781,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '25':
    st.write(alt.Chart(data45671THYM25).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '24': 
@@ -9789,7 +9789,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '24':
    st.write(alt.Chart(data45672THYM24).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '23': 
@@ -9797,7 +9797,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '23':
    st.write(alt.Chart(data45673THYM23).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '22': 
@@ -9805,7 +9805,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '22':
    st.write(alt.Chart(data45674THYM22).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '21': 
@@ -9813,7 +9813,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '21':
    st.write(alt.Chart(data45675THYM21).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '20': 
@@ -9821,7 +9821,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '20':
    st.write(alt.Chart(data45676THYM20).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '19': 
@@ -9829,7 +9829,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '19':
    st.write(alt.Chart(data45677THYM19).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '18': 
@@ -9837,7 +9837,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '18':
    st.write(alt.Chart(data45678THYM18).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '17': 
@@ -9845,7 +9845,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '17':
    st.write(alt.Chart(data45679THYM17).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '16': 
@@ -9853,7 +9853,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '16':
    st.write(alt.Chart(data45680THYM16).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '15': 
@@ -9861,7 +9861,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '15':
    st.write(alt.Chart(data45681THYM15).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '14': 
@@ -9869,7 +9869,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '14':
    st.write(alt.Chart(data45682THYM14).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '13': 
@@ -9877,7 +9877,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '13':
    st.write(alt.Chart(data45683THYM13).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '12': 
@@ -9885,7 +9885,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '12':
    st.write(alt.Chart(data45684THYM12).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '11': 
@@ -9893,7 +9893,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '11':
    st.write(alt.Chart(data45685THYM11).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '10': 
@@ -9901,7 +9901,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '10':
    st.write(alt.Chart(data45686THYM10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '9': 
@@ -9909,7 +9909,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '9':
    st.write(alt.Chart(data45687THYM9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '8': 
@@ -9917,7 +9917,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '8':
    st.write(alt.Chart(data45688THYM8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '7': 
@@ -9925,7 +9925,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '7':
    st.write(alt.Chart(data45689THYM7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '6': 
@@ -9933,7 +9933,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '6':
    st.write(alt.Chart(data45690THYM6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '5': 
@@ -9941,7 +9941,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '5':
    st.write(alt.Chart(data45691THYM5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '4': 
@@ -9949,7 +9949,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '4':
    st.write(alt.Chart(data45692THYM4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '3': 
@@ -9957,7 +9957,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '3':
    st.write(alt.Chart(data45693THYM3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '2': 
@@ -9965,7 +9965,7 @@ if option == 'THYM' and option2 == 'Asian' and color == '2':
    st.write(alt.Chart(data45694THYM2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
  
 if option == 'THYM' and option2 == 'Asian' and color == '1': 
@@ -9973,5 +9973,5 @@ if option == 'THYM' and option2 == 'Asian' and color == '1':
    st.write(alt.Chart(data45695THYM1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='MutationRate', 
+        y='Asian_p', 
         )) 
