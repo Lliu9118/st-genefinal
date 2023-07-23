@@ -5013,3 +5013,242 @@ if option == 'GBM' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
+if option == 'HNSC' and option2 == 'Asian' and color == '30': 
+   st.write(data21807HNSC30) 
+   st.write(alt.Chart(data21807HNSC30).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '29': 
+   st.write(data21808HNSC29) 
+   st.write(alt.Chart(data21808HNSC29).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '28': 
+   st.write(data21809HNSC28) 
+   st.write(alt.Chart(data21809HNSC28).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '27': 
+   st.write(data21810HNSC27) 
+   st.write(alt.Chart(data21810HNSC27).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '26': 
+   st.write(data21811HNSC26) 
+   st.write(alt.Chart(data21811HNSC26).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '25': 
+   st.write(data21812HNSC25) 
+   st.write(alt.Chart(data21812HNSC25).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '24': 
+   st.write(data21813HNSC24) 
+   st.write(alt.Chart(data21813HNSC24).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '23': 
+   st.write(data21814HNSC23) 
+   st.write(alt.Chart(data21814HNSC23).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '22': 
+   st.write(data21815HNSC22) 
+   st.write(alt.Chart(data21815HNSC22).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '21': 
+   st.write(data21816HNSC21) 
+   st.write(alt.Chart(data21816HNSC21).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '20': 
+   st.write(data21817HNSC20) 
+   st.write(alt.Chart(data21817HNSC20).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '19': 
+   st.write(data21818HNSC19) 
+   st.write(alt.Chart(data21818HNSC19).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '18': 
+   st.write(data21819HNSC18) 
+   st.write(alt.Chart(data21819HNSC18).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '17': 
+   st.write(data21820HNSC17) 
+   st.write(alt.Chart(data21820HNSC17).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '16': 
+   st.write(data21821HNSC16) 
+   st.write(alt.Chart(data21821HNSC16).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '15': 
+   st.write(data21822HNSC15) 
+   st.write(alt.Chart(data21822HNSC15).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '14': 
+   st.write(data21823HNSC14) 
+   st.write(alt.Chart(data21823HNSC14).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '13': 
+   st.write(data21824HNSC13) 
+   st.write(alt.Chart(data21824HNSC13).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '12': 
+   st.write(data21825HNSC12) 
+   st.write(alt.Chart(data21825HNSC12).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '11': 
+   st.write(data21826HNSC11) 
+   st.write(alt.Chart(data21826HNSC11).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '10': 
+   st.write(data21827HNSC10) 
+   st.write(alt.Chart(data21827HNSC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '9': 
+   st.write(data21828HNSC9) 
+   st.write(alt.Chart(data21828HNSC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '8': 
+   st.write(data21829HNSC8) 
+   st.write(alt.Chart(data21829HNSC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '7': 
+   st.write(data21830HNSC7) 
+   st.write(alt.Chart(data21830HNSC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '6': 
+   st.write(data21831HNSC6) 
+   st.write(alt.Chart(data21831HNSC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '5': 
+   st.write(data21832HNSC5) 
+   st.write(alt.Chart(data21832HNSC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '4': 
+   st.write(data21833HNSC4) 
+   st.write(alt.Chart(data21833HNSC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '3': 
+   st.write(data21834HNSC3) 
+   st.write(alt.Chart(data21834HNSC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '2': 
+   st.write(data21835HNSC2) 
+   st.write(alt.Chart(data21835HNSC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Asian' and color == '1': 
+   st.write(data21836HNSC1) 
+   st.write(alt.Chart(data21836HNSC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
