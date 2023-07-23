@@ -5730,3 +5730,242 @@ if option == 'KIRC' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
+if option == 'KIRP' and option2 == 'Asian' and color == '30': 
+   st.write(data22247KIRP30) 
+   st.write(alt.Chart(data22247KIRP30).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '29': 
+   st.write(data22248KIRP29) 
+   st.write(alt.Chart(data22248KIRP29).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '28': 
+   st.write(data22249KIRP28) 
+   st.write(alt.Chart(data22249KIRP28).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '27': 
+   st.write(data22250KIRP27) 
+   st.write(alt.Chart(data22250KIRP27).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '26': 
+   st.write(data22251KIRP26) 
+   st.write(alt.Chart(data22251KIRP26).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '25': 
+   st.write(data22252KIRP25) 
+   st.write(alt.Chart(data22252KIRP25).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '24': 
+   st.write(data22253KIRP24) 
+   st.write(alt.Chart(data22253KIRP24).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '23': 
+   st.write(data22254KIRP23) 
+   st.write(alt.Chart(data22254KIRP23).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '22': 
+   st.write(data22255KIRP22) 
+   st.write(alt.Chart(data22255KIRP22).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '21': 
+   st.write(data22256KIRP21) 
+   st.write(alt.Chart(data22256KIRP21).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '20': 
+   st.write(data22257KIRP20) 
+   st.write(alt.Chart(data22257KIRP20).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '19': 
+   st.write(data22258KIRP19) 
+   st.write(alt.Chart(data22258KIRP19).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '18': 
+   st.write(data22259KIRP18) 
+   st.write(alt.Chart(data22259KIRP18).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '17': 
+   st.write(data22260KIRP17) 
+   st.write(alt.Chart(data22260KIRP17).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '16': 
+   st.write(data22261KIRP16) 
+   st.write(alt.Chart(data22261KIRP16).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '15': 
+   st.write(data22262KIRP15) 
+   st.write(alt.Chart(data22262KIRP15).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '14': 
+   st.write(data22263KIRP14) 
+   st.write(alt.Chart(data22263KIRP14).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '13': 
+   st.write(data22264KIRP13) 
+   st.write(alt.Chart(data22264KIRP13).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '12': 
+   st.write(data22265KIRP12) 
+   st.write(alt.Chart(data22265KIRP12).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '11': 
+   st.write(data22266KIRP11) 
+   st.write(alt.Chart(data22266KIRP11).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '10': 
+   st.write(data22267KIRP10) 
+   st.write(alt.Chart(data22267KIRP10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '9': 
+   st.write(data22268KIRP9) 
+   st.write(alt.Chart(data22268KIRP9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '8': 
+   st.write(data22269KIRP8) 
+   st.write(alt.Chart(data22269KIRP8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '7': 
+   st.write(data22270KIRP7) 
+   st.write(alt.Chart(data22270KIRP7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '6': 
+   st.write(data22271KIRP6) 
+   st.write(alt.Chart(data22271KIRP6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '5': 
+   st.write(data22272KIRP5) 
+   st.write(alt.Chart(data22272KIRP5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '4': 
+   st.write(data22273KIRP4) 
+   st.write(alt.Chart(data22273KIRP4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '3': 
+   st.write(data22274KIRP3) 
+   st.write(alt.Chart(data22274KIRP3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '2': 
+   st.write(data22275KIRP2) 
+   st.write(alt.Chart(data22275KIRP2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Asian' and color == '1': 
+   st.write(data22276KIRP1) 
+   st.write(alt.Chart(data22276KIRP1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
