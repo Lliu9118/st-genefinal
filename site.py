@@ -2829,6 +2829,12 @@ data45464THCA2.index = data45464THCA2.index + 1
 data45465THCA1 = pd.DataFrame({'Gene': ['ENSG00000157764'] ,
 'Asian_p': [0.58] ,})
 data45465THCA1.index = data45465THCA1.index + 1
+datacompa = pd.DataFrame({'Gene': ["AC011467.1Asian"
+				  "AC011467.1White"
+				  "AC011467.1PVal"], 
+			"mutationrate": [0.272727273,
+				   0.006116208,
+				   0.0000000002,],})
 
 with st.container():
     st.title(":blue[AVaRD]")
@@ -2854,7 +2860,7 @@ with st.container():
     st.write('You selected:', option)
     option2 = st.selectbox(
         'Which race would you like to view?',
-        ('Asian', 'White', 'Black',))
+        ('Asian', 'White', 'Black', 'Asian and white'))
     st.write('You selected:', option2)
     color = st.select_slider(
         'Select the amount of genes you would like to view.',
@@ -10453,3 +10459,10 @@ if option == 'UCS' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
+if option == 'BRCA' and option2 == 'Asian and white' and color == '31':
+  
+    st.write(alt.Chart(datacompa).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='mutationrate',
+
+        ))
