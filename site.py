@@ -5490,7 +5490,7 @@ if option == 'KICH' and option2 == 'Asian' and color == '1':
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
-   ))
+        ))
 if option == 'KIRC' and option2 == 'Asian' and color == '30': 
    st.write(data22034KIRC30) 
    st.write(alt.Chart(data22034KIRC30).mark_bar().encode( 
