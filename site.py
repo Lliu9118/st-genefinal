@@ -5730,4 +5730,3 @@ if option == 'KIRC' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
-        )) 
