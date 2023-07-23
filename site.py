@@ -8780,3 +8780,242 @@ if option == 'SARC' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
+if option == 'SKCM' and option2 == 'Asian' and color == '30': 
+   st.write(data34585SKCM30) 
+   st.write(alt.Chart(data34585SKCM30).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '29': 
+   st.write(data34586SKCM29) 
+   st.write(alt.Chart(data34586SKCM29).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '28': 
+   st.write(data34587SKCM28) 
+   st.write(alt.Chart(data34587SKCM28).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '27': 
+   st.write(data34588SKCM27) 
+   st.write(alt.Chart(data34588SKCM27).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '26': 
+   st.write(data34589SKCM26) 
+   st.write(alt.Chart(data34589SKCM26).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '25': 
+   st.write(data34590SKCM25) 
+   st.write(alt.Chart(data34590SKCM25).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '24': 
+   st.write(data34591SKCM24) 
+   st.write(alt.Chart(data34591SKCM24).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '23': 
+   st.write(data34592SKCM23) 
+   st.write(alt.Chart(data34592SKCM23).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '22': 
+   st.write(data34593SKCM22) 
+   st.write(alt.Chart(data34593SKCM22).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '21': 
+   st.write(data34594SKCM21) 
+   st.write(alt.Chart(data34594SKCM21).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '20': 
+   st.write(data34595SKCM20) 
+   st.write(alt.Chart(data34595SKCM20).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '19': 
+   st.write(data34596SKCM19) 
+   st.write(alt.Chart(data34596SKCM19).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '18': 
+   st.write(data34597SKCM18) 
+   st.write(alt.Chart(data34597SKCM18).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '17': 
+   st.write(data34598SKCM17) 
+   st.write(alt.Chart(data34598SKCM17).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '16': 
+   st.write(data34599SKCM16) 
+   st.write(alt.Chart(data34599SKCM16).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '15': 
+   st.write(data34600SKCM15) 
+   st.write(alt.Chart(data34600SKCM15).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '14': 
+   st.write(data34601SKCM14) 
+   st.write(alt.Chart(data34601SKCM14).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '13': 
+   st.write(data34602SKCM13) 
+   st.write(alt.Chart(data34602SKCM13).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '12': 
+   st.write(data34603SKCM12) 
+   st.write(alt.Chart(data34603SKCM12).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '11': 
+   st.write(data34604SKCM11) 
+   st.write(alt.Chart(data34604SKCM11).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '10': 
+   st.write(data34605SKCM10) 
+   st.write(alt.Chart(data34605SKCM10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '9': 
+   st.write(data34606SKCM9) 
+   st.write(alt.Chart(data34606SKCM9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '8': 
+   st.write(data34607SKCM8) 
+   st.write(alt.Chart(data34607SKCM8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '7': 
+   st.write(data34608SKCM7) 
+   st.write(alt.Chart(data34608SKCM7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '6': 
+   st.write(data34609SKCM6) 
+   st.write(alt.Chart(data34609SKCM6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '5': 
+   st.write(data34610SKCM5) 
+   st.write(alt.Chart(data34610SKCM5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '4': 
+   st.write(data34611SKCM4) 
+   st.write(alt.Chart(data34611SKCM4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '3': 
+   st.write(data34612SKCM3) 
+   st.write(alt.Chart(data34612SKCM3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '2': 
+   st.write(data34613SKCM2) 
+   st.write(alt.Chart(data34613SKCM2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Asian' and color == '1': 
+   st.write(data34614SKCM1) 
+   st.write(alt.Chart(data34614SKCM1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        )) 
