@@ -2829,9 +2829,9 @@ data45464THCA2.index = data45464THCA2.index + 1
 data45465THCA1 = pd.DataFrame({'Gene': ['ENSG00000157764'] ,
 'Asian_p': [0.58] ,})
 data45465THCA1.index = data45465THCA1.index + 1
-datacompa = pd.DataFrame({'Gene': ["AC011467.1Asian"
-				  "AC011467.1White"
-				  "AC011467.1PVal"], 
+datacompa = pd.DataFrame({'Gene': ["AC011467.1Asian",
+				  "AC011467.1White",
+				  "AC011467.1PVal",], 
 			"mutationrate": [0.272727273,
 				   0.006116208,
 				   0.0000000002,],})
