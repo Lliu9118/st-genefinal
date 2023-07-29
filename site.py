@@ -2829,9 +2829,36 @@ data45464THCA2.index = data45464THCA2.index + 1
 data45465THCA1 = pd.DataFrame({'Gene': ['ENSG00000157764'] ,
 'Asian_p': [0.58] ,})
 data45465THCA1.index = data45465THCA1.index + 1
-datacompa = pd.DataFrame({'Gene': ["AC011467.1Asian",
-				  "AC011467.1White",
-				  "AC011467.1PVal",], 
+datacompaw = pd.DataFrame({'Gene': ['ENSG00000273244Asian' ,
+				   'ENSG00000273244White' ,
+				   'ENSG00000273244PVal' ,
+'ENSG00000181903Asian' ,
+				   'ENSG00000181903White' ,
+				   'ENSG00000181903PVal' ,
+'ENSG00000079134Asian' ,
+				   'ENSG00000079134White' ,
+				   'ENSG00000079134PVal' ,
+'ENSG00000112394Asian' ,
+				   'ENSG00000112394White' ,
+				   'ENSG00000112394PVal' ,
+'ENSG00000169896Asian' ,
+				   'ENSG00000169896White' ,
+				   'ENSG00000169896PVal' ,
+'ENSG00000123636Asian' ,
+				   'ENSG00000123636White' ,
+				   'ENSG00000123636PVal' ,
+'ENSG00000113100Asian' ,
+				   'ENSG00000113100White' ,
+				   'ENSG00000113100PVal' ,
+'ENSG00000155657Asian' ,
+				   'ENSG00000155657White' ,
+				   'ENSG00000155657PVal' ,
+'ENSG00000133026Asian' ,
+				   'ENSG00000133026White' ,
+				   'ENSG00000133026PVal' ,
+'ENSG00000116044Asian' ,
+				  'ENSG00000116044White' ,
+				  'ENSG00000116044PVal' ,], 
 			"mutationrate": [0.272727273,
 				   0.006116208,
 				   0.0000000002,],})
@@ -10459,9 +10486,9 @@ if option == 'UCS' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
-if option == 'BRCA' and option2 == 'Asian and white' and color == '31':
+if option == 'BRCA' and option2 == 'Asian and white' and color == '10':
   
-    st.write(alt.Chart(datacompa).mark_bar().encode(
+    st.write(alt.Chart(datacompaw).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
