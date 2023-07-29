@@ -10486,7 +10486,7 @@ if option == 'UCS' and option2 == 'Asian' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
-if option == 'BRCA' and option2 == 'Asian and white' and color == '10':
+if option == 'BRCA' and option2 == 'Asian and white' and color == '41':
   
     st.write(alt.Chart(datacompaw).mark_bar().encode(
         x=alt.X('Gene', sort=None),
