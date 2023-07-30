@@ -2834,8 +2834,8 @@ datacompawACC10 = pd.DataFrame({'Gene': ['ENSG00000181903Asian' ,
 				    'ENSG00000181903White' ,
 				    'ENSG00000181903PVal' ,], 
 			"mutationrate": ['0.3' ,
-					 '0.03038674' ,
-					 '0.0000807' ,],})
+					 '0.3' ,
+					 '0.3' ,],})
 
 with st.container():
     st.title(":blue[AVaRD]")
