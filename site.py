@@ -2833,9 +2833,9 @@ data45465THCA1.index = data45465THCA1.index + 1
 datacompawACC10 = pd.DataFrame({'Gene': ['ENSG00000181903Asian' ,
 				    'ENSG00000181903White' ,
 				    'ENSG00000181903PVal' ,], 
-			"mutationrate": ['0.3' ,
-					 '0.3' ,
-					 '0.3' ,],})
+			"mutationrate": [0.3 ,
+					 0.03 ,
+					 0.4 ,],})
 
 with st.container():
     st.title(":blue[AVaRD]")
