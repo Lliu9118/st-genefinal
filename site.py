@@ -2888,7 +2888,7 @@ datacompawACC1 = pd.DataFrame({'Gene': ['ENSG00000181903Asian' ,
 					 0.000175084 ,
 0.069620253 ,
 					0 ,
-					0.000192271' ,],})
+					0.000192271 ,],})
 datacompawACC2 = pd.DataFrame({'Gene': ['ENSG00000181903Asian' ,
 				    'ENSG00000181903White' ,
 				    'ENSG00000181903PVal' ,
