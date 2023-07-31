@@ -11568,7 +11568,6 @@ if option == 'BRCA' and option2 == 'Asian and white' and color == '1':
         y='Asian_p', 
         )) 
 
-: 
     st.write(data802CESC10) 
     st.write(alt.Chart(data802CESC10).mark_bar().encode( 
  
