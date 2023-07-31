@@ -11409,2095 +11409,2097 @@ if option == 'ACC' and option2 == 'Asian and white' and color == '1':
 
         ))
 if option == 'BLCA' and option2 == 'Asian and white' and color == '10': 
-    st.write(data189BLCA10) 
-    st.write(alt.Chart(data189BLCA10).mark_bar().encode( 
+    st.write(dataaw189BLCA10) 
+    st.write(alt.Chart(dataaw189BLCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '9': 
-    st.write(data190BLCA9) 
-    st.write(alt.Chart(data190BLCA9).mark_bar().encode( 
+    st.write(dataaw190BLCA9) 
+    st.write(alt.Chart(dataaw190BLCA9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '8': 
-    st.write(data191BLCA8) 
-    st.write(alt.Chart(data191BLCA8).mark_bar().encode( 
+    st.write(dataaw191BLCA8) 
+    st.write(alt.Chart(dataaw191BLCA8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '7': 
-    st.write(data192BLCA7) 
-    st.write(alt.Chart(data192BLCA7).mark_bar().encode( 
+    st.write(dataaw192BLCA7) 
+    st.write(alt.Chart(dataaw192BLCA7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '6': 
-    st.write(data193BLCA6) 
-    st.write(alt.Chart(data193BLCA6).mark_bar().encode( 
+    st.write(dataaw193BLCA6) 
+    st.write(alt.Chart(dataaw193BLCA6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '5': 
-    st.write(data194BLCA5) 
-    st.write(alt.Chart(data194BLCA5).mark_bar().encode( 
+    st.write(dataaw194BLCA5) 
+    st.write(alt.Chart(dataaw194BLCA5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '4': 
-    st.write(data195BLCA4) 
-    st.write(alt.Chart(data195BLCA4).mark_bar().encode( 
+    st.write(dataaw195BLCA4) 
+    st.write(alt.Chart(dataaw195BLCA4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '3': 
-    st.write(data196BLCA3) 
-    st.write(alt.Chart(data196BLCA3).mark_bar().encode( 
+    st.write(dataaw196BLCA3) 
+    st.write(alt.Chart(dataaw196BLCA3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '2': 
-    st.write(data197BLCA2) 
-    st.write(alt.Chart(data197BLCA2).mark_bar().encode( 
+    st.write(dataaw197BLCA2) 
+    st.write(alt.Chart(dataaw197BLCA2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '1': 
-    st.write(data198BLCA1) 
-    st.write(alt.Chart(data198BLCA1).mark_bar().encode( 
+    st.write(dataaw198BLCA1) 
+    st.write(alt.Chart(dataaw198BLCA1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '10': 
-    st.write(data636BRCA10) 
-    st.write(alt.Chart(data636BRCA10).mark_bar().encode( 
+    st.write(dataaw636BRCA10) 
+    st.write(alt.Chart(dataaw636BRCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '9': 
-    st.write(data637BRCA9) 
-    st.write(alt.Chart(data637BRCA9).mark_bar().encode( 
+    st.write(dataaw637BRCA9) 
+    st.write(alt.Chart(dataaw637BRCA9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '8': 
-    st.write(data638BRCA8) 
-    st.write(alt.Chart(data638BRCA8).mark_bar().encode( 
+    st.write(dataaw638BRCA8) 
+    st.write(alt.Chart(dataaw638BRCA8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '7': 
-    st.write(data639BRCA7) 
-    st.write(alt.Chart(data639BRCA7).mark_bar().encode( 
+    st.write(dataaw639BRCA7) 
+    st.write(alt.Chart(dataaw639BRCA7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '6': 
-    st.write(data640BRCA6) 
-    st.write(alt.Chart(data640BRCA6).mark_bar().encode( 
+    st.write(dataaw640BRCA6) 
+    st.write(alt.Chart(dataaw640BRCA6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '5': 
-    st.write(data641BRCA5) 
-    st.write(alt.Chart(data641BRCA5).mark_bar().encode( 
+    st.write(dataaw641BRCA5) 
+    st.write(alt.Chart(dataaw641BRCA5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '4': 
-    st.write(data642BRCA4) 
-    st.write(alt.Chart(data642BRCA4).mark_bar().encode( 
+    st.write(dataaw642BRCA4) 
+    st.write(alt.Chart(dataaw642BRCA4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '3': 
-    st.write(data643BRCA3) 
-    st.write(alt.Chart(data643BRCA3).mark_bar().encode( 
+    st.write(dataaw643BRCA3) 
+    st.write(alt.Chart(dataaw643BRCA3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '2': 
-    st.write(data644BRCA2) 
-    st.write(alt.Chart(data644BRCA2).mark_bar().encode( 
+    st.write(dataaw644BRCA2) 
+    st.write(alt.Chart(dataaw644BRCA2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '1': 
-    st.write(data645BRCA1) 
-    st.write(alt.Chart(data645BRCA1).mark_bar().encode( 
+    st.write(dataaw645BRCA1) 
+    st.write(alt.Chart(dataaw645BRCA1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
-    st.write(data802CESC10) 
-    st.write(alt.Chart(data802CESC10).mark_bar().encode( 
+if option == 'CESC' and option2 == 'Asian and white' and color == '10': 
+    st.write(dataaw802CESC10) 
+    st.write(alt.Chart(dataaw802CESC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data803CESC9) 
-    st.write(alt.Chart(data803CESC9).mark_bar().encode( 
+    st.write(dataaw803CESC9) 
+    st.write(alt.Chart(dataaw803CESC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data804CESC8) 
-    st.write(alt.Chart(data804CESC8).mark_bar().encode( 
+    st.write(dataaw804CESC8) 
+    st.write(alt.Chart(dataaw804CESC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data805CESC7) 
-    st.write(alt.Chart(data805CESC7).mark_bar().encode( 
+    st.write(dataaw805CESC7) 
+    st.write(alt.Chart(dataaw805CESC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data806CESC6) 
-    st.write(alt.Chart(data806CESC6).mark_bar().encode( 
+    st.write(dataaw806CESC6) 
+    st.write(alt.Chart(dataaw806CESC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data807CESC5) 
-    st.write(alt.Chart(data807CESC5).mark_bar().encode( 
+    st.write(dataaw807CESC5) 
+    st.write(alt.Chart(dataaw807CESC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data808CESC4) 
-    st.write(alt.Chart(data808CESC4).mark_bar().encode( 
+    st.write(dataaw808CESC4) 
+    st.write(alt.Chart(dataaw808CESC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data809CESC3) 
-    st.write(alt.Chart(data809CESC3).mark_bar().encode( 
+    st.write(dataaw809CESC3) 
+    st.write(alt.Chart(dataaw809CESC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data810CESC2) 
-    st.write(alt.Chart(data810CESC2).mark_bar().encode( 
+    st.write(dataaw810CESC2) 
+    st.write(alt.Chart(dataaw810CESC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CESC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data811CESC1) 
-    st.write(alt.Chart(data811CESC1).mark_bar().encode( 
+    st.write(dataaw811CESC1) 
+    st.write(alt.Chart(dataaw811CESC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '10': 
-    st.write(data881CHOL10) 
-    st.write(alt.Chart(data881CHOL10).mark_bar().encode( 
+    st.write(dataaw881CHOL10) 
+    st.write(alt.Chart(dataaw881CHOL10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '9': 
-    st.write(data882CHOL9) 
-    st.write(alt.Chart(data882CHOL9).mark_bar().encode( 
+    st.write(dataaw882CHOL9) 
+    st.write(alt.Chart(dataaw882CHOL9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '8': 
-    st.write(data883CHOL8) 
-    st.write(alt.Chart(data883CHOL8).mark_bar().encode( 
+    st.write(dataaw883CHOL8) 
+    st.write(alt.Chart(dataaw883CHOL8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '7': 
-    st.write(data884CHOL7) 
-    st.write(alt.Chart(data884CHOL7).mark_bar().encode( 
+    st.write(dataaw884CHOL7) 
+    st.write(alt.Chart(dataaw884CHOL7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '6': 
-    st.write(data885CHOL6) 
-    st.write(alt.Chart(data885CHOL6).mark_bar().encode( 
+    st.write(dataaw885CHOL6) 
+    st.write(alt.Chart(dataaw885CHOL6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '5': 
-    st.write(data886CHOL5) 
-    st.write(alt.Chart(data886CHOL5).mark_bar().encode( 
+    st.write(dataaw886CHOL5) 
+    st.write(alt.Chart(dataaw886CHOL5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '4': 
-    st.write(data887CHOL4) 
-    st.write(alt.Chart(data887CHOL4).mark_bar().encode( 
+    st.write(dataaw887CHOL4) 
+    st.write(alt.Chart(dataaw887CHOL4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '3': 
-    st.write(data888CHOL3) 
-    st.write(alt.Chart(data888CHOL3).mark_bar().encode( 
+    st.write(dataaw888CHOL3) 
+    st.write(alt.Chart(dataaw888CHOL3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '2': 
-    st.write(data889CHOL2) 
-    st.write(alt.Chart(data889CHOL2).mark_bar().encode( 
+    st.write(dataaw889CHOL2) 
+    st.write(alt.Chart(dataaw889CHOL2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'CHOL' and option2 == 'Asian and white' and color == '1': 
-    st.write(data890CHOL1) 
-    st.write(alt.Chart(data890CHOL1).mark_bar().encode( 
+    st.write(dataaw890CHOL1) 
+    st.write(alt.Chart(dataaw890CHOL1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'COAD' and option2 == 'Asian and white' and color == '10': 
-    st.write(data3025COAD10) 
-    st.write(alt.Chart(data3025COAD10).mark_bar().encode( 
+    st.write(dataaw3025COAD10) 
+    st.write(alt.Chart(dataaw3025COAD10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '9': 
-    st.write(data3026COAD9) 
-    st.write(alt.Chart(data3026COAD9).mark_bar().encode( 
+    st.write(dataaw3026COAD9) 
+    st.write(alt.Chart(dataaw3026COAD9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '8': 
-    st.write(data3027COAD8) 
-    st.write(alt.Chart(data3027COAD8).mark_bar().encode( 
+    st.write(dataaw3027COAD8) 
+    st.write(alt.Chart(dataaw3027COAD8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '7': 
-    st.write(data3028COAD7) 
-    st.write(alt.Chart(data3028COAD7).mark_bar().encode( 
+    st.write(dataaw3028COAD7) 
+    st.write(alt.Chart(dataaw3028COAD7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '6': 
-    st.write(data3029COAD6) 
-    st.write(alt.Chart(data3029COAD6).mark_bar().encode( 
+    st.write(dataaw3029COAD6) 
+    st.write(alt.Chart(dataaw3029COAD6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '5': 
-    st.write(data3030COAD5) 
-    st.write(alt.Chart(data3030COAD5).mark_bar().encode( 
+    st.write(dataaw3030COAD5) 
+    st.write(alt.Chart(dataaw3030COAD5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '4': 
-    st.write(data3031COAD4) 
-    st.write(alt.Chart(data3031COAD4).mark_bar().encode( 
+    st.write(dataaw3031COAD4) 
+    st.write(alt.Chart(dataaw3031COAD4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '3': 
-    st.write(data3032COAD3) 
-    st.write(alt.Chart(data3032COAD3).mark_bar().encode( 
+    st.write(dataaw3032COAD3) 
+    st.write(alt.Chart(dataaw3032COAD3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '2': 
-    st.write(data3033COAD2) 
-    st.write(alt.Chart(data3033COAD2).mark_bar().encode( 
+    st.write(dataaw3033COAD2) 
+    st.write(alt.Chart(dataaw3033COAD2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'COAD' and option2 == 'Asian and white' and color == '1': 
-    st.write(data3034COAD1) 
-    st.write(alt.Chart(data3034COAD1).mark_bar().encode( 
+    st.write(dataaw3034COAD1) 
+    st.write(alt.Chart(dataaw3034COAD1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '10': 
-    st.write(data3249ESCA10) 
-    st.write(alt.Chart(data3249ESCA10).mark_bar().encode( 
+    st.write(dataaw3249ESCA10) 
+    st.write(alt.Chart(dataaw3249ESCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '9': 
-    st.write(data3250ESCA9) 
-    st.write(alt.Chart(data3250ESCA9).mark_bar().encode( 
+    st.write(dataaw3250ESCA9) 
+    st.write(alt.Chart(dataaw3250ESCA9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '8': 
-    st.write(data3251ESCA8) 
-    st.write(alt.Chart(data3251ESCA8).mark_bar().encode( 
+    st.write(dataaw3251ESCA8) 
+    st.write(alt.Chart(dataaw3251ESCA8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '7': 
-    st.write(data3252ESCA7) 
-    st.write(alt.Chart(data3252ESCA7).mark_bar().encode( 
+    st.write(dataaw3252ESCA7) 
+    st.write(alt.Chart(dataaw3252ESCA7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '6': 
-    st.write(data3253ESCA6) 
-    st.write(alt.Chart(data3253ESCA6).mark_bar().encode( 
+    st.write(dataaw3253ESCA6) 
+    st.write(alt.Chart(dataaw3253ESCA6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '5': 
-    st.write(data3254ESCA5) 
-    st.write(alt.Chart(data3254ESCA5).mark_bar().encode( 
+    st.write(dataaw3254ESCA5) 
+    st.write(alt.Chart(dataaw3254ESCA5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '4': 
-    st.write(data3255ESCA4) 
-    st.write(alt.Chart(data3255ESCA4).mark_bar().encode( 
+    st.write(dataaw3255ESCA4) 
+    st.write(alt.Chart(dataaw3255ESCA4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '3': 
-    st.write(data3256ESCA3) 
-    st.write(alt.Chart(data3256ESCA3).mark_bar().encode( 
+    st.write(dataaw3256ESCA3) 
+    st.write(alt.Chart(dataaw3256ESCA3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '2': 
-    st.write(data3257ESCA2) 
-    st.write(alt.Chart(data3257ESCA2).mark_bar().encode( 
+    st.write(dataaw3257ESCA2) 
+    st.write(alt.Chart(dataaw3257ESCA2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'ESCA' and option2 == 'Asian and white' and color == '1': 
-    st.write(data3258ESCA1) 
-    st.write(alt.Chart(data3258ESCA1).mark_bar().encode( 
+    st.write(dataaw3258ESCA1) 
+    st.write(alt.Chart(dataaw3258ESCA1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'GBM' and option2 == 'Asian and white' and color == '10': 
-    st.write(data3375GBM10) 
-    st.write(alt.Chart(data3375GBM10).mark_bar().encode( 
+    st.write(dataaw3375GBM10) 
+    st.write(alt.Chart(dataaw3375GBM10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '9': 
-    st.write(data3376GBM9) 
-    st.write(alt.Chart(data3376GBM9).mark_bar().encode( 
+    st.write(dataaw3376GBM9) 
+    st.write(alt.Chart(dataaw3376GBM9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '8': 
-    st.write(data3377GBM8) 
-    st.write(alt.Chart(data3377GBM8).mark_bar().encode( 
+    st.write(dataaw3377GBM8) 
+    st.write(alt.Chart(dataaw3377GBM8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '7': 
-    st.write(data3378GBM7) 
-    st.write(alt.Chart(data3378GBM7).mark_bar().encode( 
+    st.write(dataaw3378GBM7) 
+    st.write(alt.Chart(dataaw3378GBM7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '6': 
-    st.write(data3379GBM6) 
-    st.write(alt.Chart(data3379GBM6).mark_bar().encode( 
+    st.write(dataaw3379GBM6) 
+    st.write(alt.Chart(dataaw3379GBM6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '5': 
-    st.write(data3380GBM5) 
-    st.write(alt.Chart(data3380GBM5).mark_bar().encode( 
+    st.write(dataaw3380GBM5) 
+    st.write(alt.Chart(dataaw3380GBM5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '4': 
-    st.write(data3381GBM4) 
-    st.write(alt.Chart(data3381GBM4).mark_bar().encode( 
+    st.write(dataaw3381GBM4) 
+    st.write(alt.Chart(dataaw3381GBM4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '3': 
-    st.write(data3382GBM3) 
-    st.write(alt.Chart(data3382GBM3).mark_bar().encode( 
+    st.write(dataaw3382GBM3) 
+    st.write(alt.Chart(dataaw3382GBM3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '2': 
-    st.write(data3383GBM2) 
-    st.write(alt.Chart(data3383GBM2).mark_bar().encode( 
+    st.write(dataaw3383GBM2) 
+    st.write(alt.Chart(dataaw3383GBM2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'GBM' and option2 == 'Asian and white' and color == '1': 
-    st.write(data3384GBM1) 
-    st.write(alt.Chart(data3384GBM1).mark_bar().encode( 
+    st.write(dataaw3384GBM1) 
+    st.write(alt.Chart(dataaw3384GBM1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '10': 
-    st.write(data3749HNSC10) 
-    st.write(alt.Chart(data3749HNSC10).mark_bar().encode( 
+    st.write(dataaw3749HNSC10) 
+    st.write(alt.Chart(dataaw3749HNSC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data3750HNSC9) 
-    st.write(alt.Chart(data3750HNSC9).mark_bar().encode( 
+    st.write(dataaw3750HNSC9) 
+    st.write(alt.Chart(dataaw3750HNSC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data3751HNSC8) 
-    st.write(alt.Chart(data3751HNSC8).mark_bar().encode( 
+    st.write(dataaw3751HNSC8) 
+    st.write(alt.Chart(dataaw3751HNSC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data3752HNSC7) 
-    st.write(alt.Chart(data3752HNSC7).mark_bar().encode( 
+    st.write(dataaw3752HNSC7) 
+    st.write(alt.Chart(dataaw3752HNSC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data3753HNSC6) 
-    st.write(alt.Chart(data3753HNSC6).mark_bar().encode( 
+    st.write(dataaw3753HNSC6) 
+    st.write(alt.Chart(dataaw3753HNSC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data3754HNSC5) 
-    st.write(alt.Chart(data3754HNSC5).mark_bar().encode( 
+    st.write(dataaw3754HNSC5) 
+    st.write(alt.Chart(dataaw3754HNSC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data3755HNSC4) 
-    st.write(alt.Chart(data3755HNSC4).mark_bar().encode( 
+    st.write(dataaw3755HNSC4) 
+    st.write(alt.Chart(dataaw3755HNSC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data3756HNSC3) 
-    st.write(alt.Chart(data3756HNSC3).mark_bar().encode( 
+    st.write(dataaw3756HNSC3) 
+    st.write(alt.Chart(dataaw3756HNSC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data3757HNSC2) 
-    st.write(alt.Chart(data3757HNSC2).mark_bar().encode( 
+    st.write(dataaw3757HNSC2) 
+    st.write(alt.Chart(dataaw3757HNSC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'HNSC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data3758HNSC1) 
-    st.write(alt.Chart(data3758HNSC1).mark_bar().encode( 
+    st.write(dataaw3758HNSC1) 
+    st.write(alt.Chart(dataaw3758HNSC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '10': 
-    st.write(data3945KIRC10) 
-    st.write(alt.Chart(data3945KIRC10).mark_bar().encode( 
+    st.write(dataaw3945KIRC10) 
+    st.write(alt.Chart(dataaw3945KIRC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data3946KIRC9) 
-    st.write(alt.Chart(data3946KIRC9).mark_bar().encode( 
+    st.write(dataaw3946KIRC9) 
+    st.write(alt.Chart(dataaw3946KIRC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data3947KIRC8) 
-    st.write(alt.Chart(data3947KIRC8).mark_bar().encode( 
+    st.write(dataaw3947KIRC8) 
+    st.write(alt.Chart(dataaw3947KIRC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data3948KIRC7) 
-    st.write(alt.Chart(data3948KIRC7).mark_bar().encode( 
+    st.write(dataaw3948KIRC7) 
+    st.write(alt.Chart(dataaw3948KIRC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data3949KIRC6) 
-    st.write(alt.Chart(data3949KIRC6).mark_bar().encode( 
+    st.write(dataaw3949KIRC6) 
+    st.write(alt.Chart(dataaw3949KIRC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data3950KIRC5) 
-    st.write(alt.Chart(data3950KIRC5).mark_bar().encode( 
+    st.write(dataaw3950KIRC5) 
+    st.write(alt.Chart(dataaw3950KIRC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data3951KIRC4) 
-    st.write(alt.Chart(data3951KIRC4).mark_bar().encode( 
+    st.write(dataaw3951KIRC4) 
+    st.write(alt.Chart(dataaw3951KIRC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data3952KIRC3) 
-    st.write(alt.Chart(data3952KIRC3).mark_bar().encode( 
+    st.write(dataaw3952KIRC3) 
+    st.write(alt.Chart(dataaw3952KIRC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data3953KIRC2) 
-    st.write(alt.Chart(data3953KIRC2).mark_bar().encode( 
+    st.write(dataaw3953KIRC2) 
+    st.write(alt.Chart(dataaw3953KIRC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data3954KIRC1) 
-    st.write(alt.Chart(data3954KIRC1).mark_bar().encode( 
+    st.write(dataaw3954KIRC1) 
+    st.write(alt.Chart(dataaw3954KIRC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '10': 
-    st.write(data4125KIRP10) 
-    st.write(alt.Chart(data4125KIRP10).mark_bar().encode( 
+    st.write(dataaw4125KIRP10) 
+    st.write(alt.Chart(dataaw4125KIRP10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '9': 
-    st.write(data4126KIRP9) 
-    st.write(alt.Chart(data4126KIRP9).mark_bar().encode( 
+    st.write(dataaw4126KIRP9) 
+    st.write(alt.Chart(dataaw4126KIRP9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '8': 
-    st.write(data4127KIRP8) 
-    st.write(alt.Chart(data4127KIRP8).mark_bar().encode( 
+    st.write(dataaw4127KIRP8) 
+    st.write(alt.Chart(dataaw4127KIRP8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '7': 
-    st.write(data4128KIRP7) 
-    st.write(alt.Chart(data4128KIRP7).mark_bar().encode( 
+    st.write(dataaw4128KIRP7) 
+    st.write(alt.Chart(dataaw4128KIRP7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '6': 
-    st.write(data4129KIRP6) 
-    st.write(alt.Chart(data4129KIRP6).mark_bar().encode( 
+    st.write(dataaw4129KIRP6) 
+    st.write(alt.Chart(dataaw4129KIRP6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '5': 
-    st.write(data4130KIRP5) 
-    st.write(alt.Chart(data4130KIRP5).mark_bar().encode( 
+    st.write(dataaw4130KIRP5) 
+    st.write(alt.Chart(dataaw4130KIRP5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '4': 
-    st.write(data4131KIRP4) 
-    st.write(alt.Chart(data4131KIRP4).mark_bar().encode( 
+    st.write(dataaw4131KIRP4) 
+    st.write(alt.Chart(dataaw4131KIRP4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '3': 
-    st.write(data4132KIRP3) 
-    st.write(alt.Chart(data4132KIRP3).mark_bar().encode( 
+    st.write(dataaw4132KIRP3) 
+    st.write(alt.Chart(dataaw4132KIRP3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '2': 
-    st.write(data4133KIRP2) 
-    st.write(alt.Chart(data4133KIRP2).mark_bar().encode( 
+    st.write(dataaw4133KIRP2) 
+    st.write(alt.Chart(dataaw4133KIRP2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'KIRP' and option2 == 'Asian and white' and color == '1': 
-    st.write(data4134KIRP1) 
-    st.write(alt.Chart(data4134KIRP1).mark_bar().encode( 
+    st.write(dataaw4134KIRP1) 
+    st.write(alt.Chart(dataaw4134KIRP1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'LAML' and option2 == 'Asian and white' and color == '10': 
-    st.write(data4136LAML10) 
-    st.write(alt.Chart(data4136LAML10).mark_bar().encode( 
+    st.write(dataaw4136LAML10) 
+    st.write(alt.Chart(dataaw4136LAML10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '9': 
-    st.write(data4137LAML9) 
-    st.write(alt.Chart(data4137LAML9).mark_bar().encode( 
+    st.write(dataaw4137LAML9) 
+    st.write(alt.Chart(dataaw4137LAML9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '8': 
-    st.write(data4138LAML8) 
-    st.write(alt.Chart(data4138LAML8).mark_bar().encode( 
+    st.write(dataaw4138LAML8) 
+    st.write(alt.Chart(dataaw4138LAML8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '7': 
-    st.write(data4139LAML7) 
-    st.write(alt.Chart(data4139LAML7).mark_bar().encode( 
+    st.write(dataaw4139LAML7) 
+    st.write(alt.Chart(dataaw4139LAML7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '6': 
-    st.write(data4140LAML6) 
-    st.write(alt.Chart(data4140LAML6).mark_bar().encode( 
+    st.write(dataaw4140LAML6) 
+    st.write(alt.Chart(dataaw4140LAML6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '5': 
-    st.write(data4141LAML5) 
-    st.write(alt.Chart(data4141LAML5).mark_bar().encode( 
+    st.write(dataaw4141LAML5) 
+    st.write(alt.Chart(dataaw4141LAML5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '4': 
-    st.write(data4142LAML4) 
-    st.write(alt.Chart(data4142LAML4).mark_bar().encode( 
+    st.write(dataaw4142LAML4) 
+    st.write(alt.Chart(dataaw4142LAML4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '3': 
-    st.write(data4143LAML3) 
-    st.write(alt.Chart(data4143LAML3).mark_bar().encode( 
+    st.write(dataaw4143LAML3) 
+    st.write(alt.Chart(dataaw4143LAML3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '2': 
-    st.write(data4144LAML2) 
-    st.write(alt.Chart(data4144LAML2).mark_bar().encode( 
+    st.write(dataaw4144LAML2) 
+    st.write(alt.Chart(dataaw4144LAML2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LAML' and option2 == 'Asian and white' and color == '1': 
-    st.write(data4145LAML1) 
-    st.write(alt.Chart(data4145LAML1).mark_bar().encode( 
+    st.write(dataaw4145LAML1) 
+    st.write(alt.Chart(dataaw4145LAML1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'LGG' and option2 == 'Asian and white' and color == '10': 
-    st.write(data4313LGG10) 
-    st.write(alt.Chart(data4313LGG10).mark_bar().encode( 
+    st.write(dataaw4313LGG10) 
+    st.write(alt.Chart(dataaw4313LGG10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '9': 
-    st.write(data4314LGG9) 
-    st.write(alt.Chart(data4314LGG9).mark_bar().encode( 
+    st.write(dataaw4314LGG9) 
+    st.write(alt.Chart(dataaw4314LGG9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '8': 
-    st.write(data4315LGG8) 
-    st.write(alt.Chart(data4315LGG8).mark_bar().encode( 
+    st.write(dataaw4315LGG8) 
+    st.write(alt.Chart(dataaw4315LGG8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '7': 
-    st.write(data4316LGG7) 
-    st.write(alt.Chart(data4316LGG7).mark_bar().encode( 
+    st.write(dataaw4316LGG7) 
+    st.write(alt.Chart(dataaw4316LGG7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '6': 
-    st.write(data4317LGG6) 
-    st.write(alt.Chart(data4317LGG6).mark_bar().encode( 
+    st.write(dataaw4317LGG6) 
+    st.write(alt.Chart(dataaw4317LGG6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '5': 
-    st.write(data4318LGG5) 
-    st.write(alt.Chart(data4318LGG5).mark_bar().encode( 
+    st.write(dataaw4318LGG5) 
+    st.write(alt.Chart(dataaw4318LGG5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '4': 
-    st.write(data4319LGG4) 
-    st.write(alt.Chart(data4319LGG4).mark_bar().encode( 
+    st.write(dataaw4319LGG4) 
+    st.write(alt.Chart(dataaw4319LGG4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '3': 
-    st.write(data4320LGG3) 
-    st.write(alt.Chart(data4320LGG3).mark_bar().encode( 
+    st.write(dataaw4320LGG3) 
+    st.write(alt.Chart(dataaw4320LGG3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '2': 
-    st.write(data4321LGG2) 
-    st.write(alt.Chart(data4321LGG2).mark_bar().encode( 
+    st.write(dataaw4321LGG2) 
+    st.write(alt.Chart(dataaw4321LGG2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LGG' and option2 == 'Asian and white' and color == '1': 
-    st.write(data4322LGG1) 
-    st.write(alt.Chart(data4322LGG1).mark_bar().encode( 
+    st.write(dataaw4322LGG1) 
+    st.write(alt.Chart(dataaw4322LGG1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '10': 
-    st.write(data4457LIHC10) 
-    st.write(alt.Chart(data4457LIHC10).mark_bar().encode( 
+    st.write(dataaw4457LIHC10) 
+    st.write(alt.Chart(dataaw4457LIHC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data4458LIHC9) 
-    st.write(alt.Chart(data4458LIHC9).mark_bar().encode( 
+    st.write(dataaw4458LIHC9) 
+    st.write(alt.Chart(dataaw4458LIHC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data4459LIHC8) 
-    st.write(alt.Chart(data4459LIHC8).mark_bar().encode( 
+    st.write(dataaw4459LIHC8) 
+    st.write(alt.Chart(dataaw4459LIHC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data4460LIHC7) 
-    st.write(alt.Chart(data4460LIHC7).mark_bar().encode( 
+    st.write(dataaw4460LIHC7) 
+    st.write(alt.Chart(dataaw4460LIHC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data4461LIHC6) 
-    st.write(alt.Chart(data4461LIHC6).mark_bar().encode( 
+    st.write(dataaw4461LIHC6) 
+    st.write(alt.Chart(dataaw4461LIHC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data4462LIHC5) 
-    st.write(alt.Chart(data4462LIHC5).mark_bar().encode( 
+    st.write(dataaw4462LIHC5) 
+    st.write(alt.Chart(dataaw4462LIHC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data4463LIHC4) 
-    st.write(alt.Chart(data4463LIHC4).mark_bar().encode( 
+    st.write(dataaw4463LIHC4) 
+    st.write(alt.Chart(dataaw4463LIHC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data4464LIHC3) 
-    st.write(alt.Chart(data4464LIHC3).mark_bar().encode( 
+    st.write(dataaw4464LIHC3) 
+    st.write(alt.Chart(dataaw4464LIHC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data4465LIHC2) 
-    st.write(alt.Chart(data4465LIHC2).mark_bar().encode( 
+    st.write(dataaw4465LIHC2) 
+    st.write(alt.Chart(dataaw4465LIHC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LIHC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data4466LIHC1) 
-    st.write(alt.Chart(data4466LIHC1).mark_bar().encode( 
+    st.write(dataaw4466LIHC1) 
+    st.write(alt.Chart(dataaw4466LIHC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '10': 
-    st.write(data4849LUAD10) 
-    st.write(alt.Chart(data4849LUAD10).mark_bar().encode( 
+    st.write(dataaw4849LUAD10) 
+    st.write(alt.Chart(dataaw4849LUAD10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '9': 
-    st.write(data4850LUAD9) 
-    st.write(alt.Chart(data4850LUAD9).mark_bar().encode( 
+    st.write(dataaw4850LUAD9) 
+    st.write(alt.Chart(dataaw4850LUAD9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '8': 
-    st.write(data4851LUAD8) 
-    st.write(alt.Chart(data4851LUAD8).mark_bar().encode( 
+    st.write(dataaw4851LUAD8) 
+    st.write(alt.Chart(dataaw4851LUAD8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '7': 
-    st.write(data4852LUAD7) 
-    st.write(alt.Chart(data4852LUAD7).mark_bar().encode( 
+    st.write(dataaw4852LUAD7) 
+    st.write(alt.Chart(dataaw4852LUAD7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '6': 
-    st.write(data4853LUAD6) 
-    st.write(alt.Chart(data4853LUAD6).mark_bar().encode( 
+    st.write(dataaw4853LUAD6) 
+    st.write(alt.Chart(dataaw4853LUAD6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '5': 
-    st.write(data4854LUAD5) 
-    st.write(alt.Chart(data4854LUAD5).mark_bar().encode( 
+    st.write(dataaw4854LUAD5) 
+    st.write(alt.Chart(dataaw4854LUAD5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '4': 
-    st.write(data4855LUAD4) 
-    st.write(alt.Chart(data4855LUAD4).mark_bar().encode( 
+    st.write(dataaw4855LUAD4) 
+    st.write(alt.Chart(dataaw4855LUAD4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '3': 
-    st.write(data4856LUAD3) 
-    st.write(alt.Chart(data4856LUAD3).mark_bar().encode( 
+    st.write(dataaw4856LUAD3) 
+    st.write(alt.Chart(dataaw4856LUAD3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '2': 
-    st.write(data4857LUAD2) 
-    st.write(alt.Chart(data4857LUAD2).mark_bar().encode( 
+    st.write(dataaw4857LUAD2) 
+    st.write(alt.Chart(dataaw4857LUAD2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUAD' and option2 == 'Asian and white' and color == '1': 
-    st.write(data4858LUAD1) 
-    st.write(alt.Chart(data4858LUAD1).mark_bar().encode( 
+    st.write(dataaw4858LUAD1) 
+    st.write(alt.Chart(dataaw4858LUAD1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5104LUSC10) 
-    st.write(alt.Chart(data5104LUSC10).mark_bar().encode( 
+    st.write(dataaw5104LUSC10) 
+    st.write(alt.Chart(dataaw5104LUSC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5105LUSC9) 
-    st.write(alt.Chart(data5105LUSC9).mark_bar().encode( 
+    st.write(dataaw5105LUSC9) 
+    st.write(alt.Chart(dataaw5105LUSC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5106LUSC8) 
-    st.write(alt.Chart(data5106LUSC8).mark_bar().encode( 
+    st.write(dataaw5106LUSC8) 
+    st.write(alt.Chart(dataaw5106LUSC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5107LUSC7) 
-    st.write(alt.Chart(data5107LUSC7).mark_bar().encode( 
+    st.write(dataaw5107LUSC7) 
+    st.write(alt.Chart(dataaw5107LUSC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5108LUSC6) 
-    st.write(alt.Chart(data5108LUSC6).mark_bar().encode( 
+    st.write(dataaw5108LUSC6) 
+    st.write(alt.Chart(dataaw5108LUSC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5109LUSC5) 
-    st.write(alt.Chart(data5109LUSC5).mark_bar().encode( 
+    st.write(dataaw5109LUSC5) 
+    st.write(alt.Chart(dataaw5109LUSC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5110LUSC4) 
-    st.write(alt.Chart(data5110LUSC4).mark_bar().encode( 
+    st.write(dataaw5110LUSC4) 
+    st.write(alt.Chart(dataaw5110LUSC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5111LUSC3) 
-    st.write(alt.Chart(data5111LUSC3).mark_bar().encode( 
+    st.write(dataaw5111LUSC3) 
+    st.write(alt.Chart(dataaw5111LUSC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5112LUSC2) 
-    st.write(alt.Chart(data5112LUSC2).mark_bar().encode( 
+    st.write(dataaw5112LUSC2) 
+    st.write(alt.Chart(dataaw5112LUSC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'LUSC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5113LUSC1) 
-    st.write(alt.Chart(data5113LUSC1).mark_bar().encode( 
+    st.write(dataaw5113LUSC1) 
+    st.write(alt.Chart(dataaw5113LUSC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'OV' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5365OV10) 
-    st.write(alt.Chart(data5365OV10).mark_bar().encode( 
+    st.write(dataaw5365OV10) 
+    st.write(alt.Chart(dataaw5365OV10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5366OV9) 
-    st.write(alt.Chart(data5366OV9).mark_bar().encode( 
+    st.write(dataaw5366OV9) 
+    st.write(alt.Chart(dataaw5366OV9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5367OV8) 
-    st.write(alt.Chart(data5367OV8).mark_bar().encode( 
+    st.write(dataaw5367OV8) 
+    st.write(alt.Chart(dataaw5367OV8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5368OV7) 
-    st.write(alt.Chart(data5368OV7).mark_bar().encode( 
+    st.write(dataaw5368OV7) 
+    st.write(alt.Chart(dataaw5368OV7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5369OV6) 
-    st.write(alt.Chart(data5369OV6).mark_bar().encode( 
+    st.write(dataaw5369OV6) 
+    st.write(alt.Chart(dataaw5369OV6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5370OV5) 
-    st.write(alt.Chart(data5370OV5).mark_bar().encode( 
+    st.write(dataaw5370OV5) 
+    st.write(alt.Chart(dataaw5370OV5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5371OV4) 
-    st.write(alt.Chart(data5371OV4).mark_bar().encode( 
+    st.write(dataaw5371OV4) 
+    st.write(alt.Chart(dataaw5371OV4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5372OV3) 
-    st.write(alt.Chart(data5372OV3).mark_bar().encode( 
+    st.write(dataaw5372OV3) 
+    st.write(alt.Chart(dataaw5372OV3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5373OV2) 
-    st.write(alt.Chart(data5373OV2).mark_bar().encode( 
+    st.write(dataaw5373OV2) 
+    st.write(alt.Chart(dataaw5373OV2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'OV' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5374OV1) 
-    st.write(alt.Chart(data5374OV1).mark_bar().encode( 
+    st.write(dataaw5374OV1) 
+    st.write(alt.Chart(dataaw5374OV1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5477PAAD10) 
-    st.write(alt.Chart(data5477PAAD10).mark_bar().encode( 
+    st.write(dataaw5477PAAD10) 
+    st.write(alt.Chart(dataaw5477PAAD10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5478PAAD9) 
-    st.write(alt.Chart(data5478PAAD9).mark_bar().encode( 
+    st.write(dataaw5478PAAD9) 
+    st.write(alt.Chart(dataaw5478PAAD9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5479PAAD8) 
-    st.write(alt.Chart(data5479PAAD8).mark_bar().encode( 
+    st.write(dataaw5479PAAD8) 
+    st.write(alt.Chart(dataaw5479PAAD8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5480PAAD7) 
-    st.write(alt.Chart(data5480PAAD7).mark_bar().encode( 
+    st.write(dataaw5480PAAD7) 
+    st.write(alt.Chart(dataaw5480PAAD7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5481PAAD6) 
-    st.write(alt.Chart(data5481PAAD6).mark_bar().encode( 
+    st.write(dataaw5481PAAD6) 
+    st.write(alt.Chart(dataaw5481PAAD6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5482PAAD5) 
-    st.write(alt.Chart(data5482PAAD5).mark_bar().encode( 
+    st.write(dataaw5482PAAD5) 
+    st.write(alt.Chart(dataaw5482PAAD5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5483PAAD4) 
-    st.write(alt.Chart(data5483PAAD4).mark_bar().encode( 
+    st.write(dataaw5483PAAD4) 
+    st.write(alt.Chart(dataaw5483PAAD4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5484PAAD3) 
-    st.write(alt.Chart(data5484PAAD3).mark_bar().encode( 
+    st.write(dataaw5484PAAD3) 
+    st.write(alt.Chart(dataaw5484PAAD3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5485PAAD2) 
-    st.write(alt.Chart(data5485PAAD2).mark_bar().encode( 
+    st.write(dataaw5485PAAD2) 
+    st.write(alt.Chart(dataaw5485PAAD2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PAAD' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5486PAAD1) 
-    st.write(alt.Chart(data5486PAAD1).mark_bar().encode( 
+    st.write(dataaw5486PAAD1) 
+    st.write(alt.Chart(dataaw5486PAAD1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5508PCPG10) 
-    st.write(alt.Chart(data5508PCPG10).mark_bar().encode( 
+    st.write(dataaw5508PCPG10) 
+    st.write(alt.Chart(dataaw5508PCPG10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5509PCPG9) 
-    st.write(alt.Chart(data5509PCPG9).mark_bar().encode( 
+    st.write(dataaw5509PCPG9) 
+    st.write(alt.Chart(dataaw5509PCPG9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5510PCPG8) 
-    st.write(alt.Chart(data5510PCPG8).mark_bar().encode( 
+    st.write(dataaw5510PCPG8) 
+    st.write(alt.Chart(dataaw5510PCPG8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5511PCPG7) 
-    st.write(alt.Chart(data5511PCPG7).mark_bar().encode( 
+    st.write(dataaw5511PCPG7) 
+    st.write(alt.Chart(dataaw5511PCPG7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5512PCPG6) 
-    st.write(alt.Chart(data5512PCPG6).mark_bar().encode( 
+    st.write(dataaw5512PCPG6) 
+    st.write(alt.Chart(dataaw5512PCPG6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5513PCPG5) 
-    st.write(alt.Chart(data5513PCPG5).mark_bar().encode( 
+    st.write(dataaw5513PCPG5) 
+    st.write(alt.Chart(dataaw5513PCPG5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5514PCPG4) 
-    st.write(alt.Chart(data5514PCPG4).mark_bar().encode( 
+    st.write(dataaw5514PCPG4) 
+    st.write(alt.Chart(dataaw5514PCPG4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5515PCPG3) 
-    st.write(alt.Chart(data5515PCPG3).mark_bar().encode( 
+    st.write(dataaw5515PCPG3) 
+    st.write(alt.Chart(dataaw5515PCPG3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5516PCPG2) 
-    st.write(alt.Chart(data5516PCPG2).mark_bar().encode( 
+    st.write(dataaw5516PCPG2) 
+    st.write(alt.Chart(dataaw5516PCPG2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PCPG' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5517PCPG1) 
-    st.write(alt.Chart(data5517PCPG1).mark_bar().encode( 
+    st.write(dataaw5517PCPG1) 
+    st.write(alt.Chart(dataaw5517PCPG1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5704PRAD10) 
-    st.write(alt.Chart(data5704PRAD10).mark_bar().encode( 
+    st.write(dataaw5704PRAD10) 
+    st.write(alt.Chart(dataaw5704PRAD10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5705PRAD9) 
-    st.write(alt.Chart(data5705PRAD9).mark_bar().encode( 
+    st.write(dataaw5705PRAD9) 
+    st.write(alt.Chart(dataaw5705PRAD9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5706PRAD8) 
-    st.write(alt.Chart(data5706PRAD8).mark_bar().encode( 
+    st.write(dataaw5706PRAD8) 
+    st.write(alt.Chart(dataaw5706PRAD8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5707PRAD7) 
-    st.write(alt.Chart(data5707PRAD7).mark_bar().encode( 
+    st.write(dataaw5707PRAD7) 
+    st.write(alt.Chart(dataaw5707PRAD7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5708PRAD6) 
-    st.write(alt.Chart(data5708PRAD6).mark_bar().encode( 
+    st.write(dataaw5708PRAD6) 
+    st.write(alt.Chart(dataaw5708PRAD6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5709PRAD5) 
-    st.write(alt.Chart(data5709PRAD5).mark_bar().encode( 
+    st.write(dataaw5709PRAD5) 
+    st.write(alt.Chart(dataaw5709PRAD5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5710PRAD4) 
-    st.write(alt.Chart(data5710PRAD4).mark_bar().encode( 
+    st.write(dataaw5710PRAD4) 
+    st.write(alt.Chart(dataaw5710PRAD4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5711PRAD3) 
-    st.write(alt.Chart(data5711PRAD3).mark_bar().encode( 
+    st.write(dataaw5711PRAD3) 
+    st.write(alt.Chart(dataaw5711PRAD3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5712PRAD2) 
-    st.write(alt.Chart(data5712PRAD2).mark_bar().encode( 
+    st.write(dataaw5712PRAD2) 
+    st.write(alt.Chart(dataaw5712PRAD2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'PRAD' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5713PRAD1) 
-    st.write(alt.Chart(data5713PRAD1).mark_bar().encode( 
+    st.write(dataaw5713PRAD1) 
+    st.write(alt.Chart(dataaw5713PRAD1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
-        ))
+        )) 
 if option == 'SARC' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5861SARC10) 
-    st.write(alt.Chart(data5861SARC10).mark_bar().encode( 
+    st.write(dataaw5861SARC10) 
+    st.write(alt.Chart(dataaw5861SARC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5862SARC9) 
-    st.write(alt.Chart(data5862SARC9).mark_bar().encode( 
+    st.write(dataaw5862SARC9) 
+    st.write(alt.Chart(dataaw5862SARC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5863SARC8) 
-    st.write(alt.Chart(data5863SARC8).mark_bar().encode( 
+    st.write(dataaw5863SARC8) 
+    st.write(alt.Chart(dataaw5863SARC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5864SARC7) 
-    st.write(alt.Chart(data5864SARC7).mark_bar().encode( 
+    st.write(dataaw5864SARC7) 
+    st.write(alt.Chart(dataaw5864SARC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5865SARC6) 
-    st.write(alt.Chart(data5865SARC6).mark_bar().encode( 
+    st.write(dataaw5865SARC6) 
+    st.write(alt.Chart(dataaw5865SARC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5866SARC5) 
-    st.write(alt.Chart(data5866SARC5).mark_bar().encode( 
+    st.write(dataaw5866SARC5) 
+    st.write(alt.Chart(dataaw5866SARC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5867SARC4) 
-    st.write(alt.Chart(data5867SARC4).mark_bar().encode( 
+    st.write(dataaw5867SARC4) 
+    st.write(alt.Chart(dataaw5867SARC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5868SARC3) 
-    st.write(alt.Chart(data5868SARC3).mark_bar().encode( 
+    st.write(dataaw5868SARC3) 
+    st.write(alt.Chart(dataaw5868SARC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5869SARC2) 
-    st.write(alt.Chart(data5869SARC2).mark_bar().encode( 
+    st.write(dataaw5869SARC2) 
+    st.write(alt.Chart(dataaw5869SARC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SARC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5870SARC1) 
-    st.write(alt.Chart(data5870SARC1).mark_bar().encode( 
+    st.write(dataaw5870SARC1) 
+    st.write(alt.Chart(dataaw5870SARC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '10': 
-    st.write(data5922SKCM10) 
-    st.write(alt.Chart(data5922SKCM10).mark_bar().encode( 
+    st.write(dataaw5922SKCM10) 
+    st.write(alt.Chart(dataaw5922SKCM10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '9': 
-    st.write(data5923SKCM9) 
-    st.write(alt.Chart(data5923SKCM9).mark_bar().encode( 
+    st.write(dataaw5923SKCM9) 
+    st.write(alt.Chart(dataaw5923SKCM9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '8': 
-    st.write(data5924SKCM8) 
-    st.write(alt.Chart(data5924SKCM8).mark_bar().encode( 
+    st.write(dataaw5924SKCM8) 
+    st.write(alt.Chart(dataaw5924SKCM8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '7': 
-    st.write(data5925SKCM7) 
-    st.write(alt.Chart(data5925SKCM7).mark_bar().encode( 
+    st.write(dataaw5925SKCM7) 
+    st.write(alt.Chart(dataaw5925SKCM7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '6': 
-    st.write(data5926SKCM6) 
-    st.write(alt.Chart(data5926SKCM6).mark_bar().encode( 
+    st.write(dataaw5926SKCM6) 
+    st.write(alt.Chart(dataaw5926SKCM6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '5': 
-    st.write(data5927SKCM5) 
-    st.write(alt.Chart(data5927SKCM5).mark_bar().encode( 
+    st.write(dataaw5927SKCM5) 
+    st.write(alt.Chart(dataaw5927SKCM5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '4': 
-    st.write(data5928SKCM4) 
-    st.write(alt.Chart(data5928SKCM4).mark_bar().encode( 
+    st.write(dataaw5928SKCM4) 
+    st.write(alt.Chart(dataaw5928SKCM4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '3': 
-    st.write(data5929SKCM3) 
-    st.write(alt.Chart(data5929SKCM3).mark_bar().encode( 
+    st.write(dataaw5929SKCM3) 
+    st.write(alt.Chart(dataaw5929SKCM3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '2': 
-    st.write(data5930SKCM2) 
-    st.write(alt.Chart(data5930SKCM2).mark_bar().encode( 
+    st.write(dataaw5930SKCM2) 
+    st.write(alt.Chart(dataaw5930SKCM2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'SKCM' and option2 == 'Asian and white' and color == '1': 
-    st.write(data5931SKCM1) 
-    st.write(alt.Chart(data5931SKCM1).mark_bar().encode( 
+    st.write(dataaw5931SKCM1) 
+    st.write(alt.Chart(dataaw5931SKCM1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'STAD' and option2 == 'Asian and white' and color == '10': 
-    st.write(data6620STAD10) 
-    st.write(alt.Chart(data6620STAD10).mark_bar().encode( 
+    st.write(dataaw6620STAD10) 
+    st.write(alt.Chart(dataaw6620STAD10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '9': 
-    st.write(data6621STAD9) 
-    st.write(alt.Chart(data6621STAD9).mark_bar().encode( 
+    st.write(dataaw6621STAD9) 
+    st.write(alt.Chart(dataaw6621STAD9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '8': 
-    st.write(data6622STAD8) 
-    st.write(alt.Chart(data6622STAD8).mark_bar().encode( 
+    st.write(dataaw6622STAD8) 
+    st.write(alt.Chart(dataaw6622STAD8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '7': 
-    st.write(data6623STAD7) 
-    st.write(alt.Chart(data6623STAD7).mark_bar().encode( 
+    st.write(dataaw6623STAD7) 
+    st.write(alt.Chart(dataaw6623STAD7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '6': 
-    st.write(data6624STAD6) 
-    st.write(alt.Chart(data6624STAD6).mark_bar().encode( 
+    st.write(dataaw6624STAD6) 
+    st.write(alt.Chart(dataaw6624STAD6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '5': 
-    st.write(data6625STAD5) 
-    st.write(alt.Chart(data6625STAD5).mark_bar().encode( 
+    st.write(dataaw6625STAD5) 
+    st.write(alt.Chart(dataaw6625STAD5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '4': 
-    st.write(data6626STAD4) 
-    st.write(alt.Chart(data6626STAD4).mark_bar().encode( 
+    st.write(dataaw6626STAD4) 
+    st.write(alt.Chart(dataaw6626STAD4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '3': 
-    st.write(data6627STAD3) 
-    st.write(alt.Chart(data6627STAD3).mark_bar().encode( 
+    st.write(dataaw6627STAD3) 
+    st.write(alt.Chart(dataaw6627STAD3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '2': 
-    st.write(data6628STAD2) 
-    st.write(alt.Chart(data6628STAD2).mark_bar().encode( 
+    st.write(dataaw6628STAD2) 
+    st.write(alt.Chart(dataaw6628STAD2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'STAD' and option2 == 'Asian and white' and color == '1': 
-    st.write(data6629STAD1) 
-    st.write(alt.Chart(data6629STAD1).mark_bar().encode( 
+    st.write(dataaw6629STAD1) 
+    st.write(alt.Chart(dataaw6629STAD1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '10': 
-    st.write(data6665TGCT10) 
-    st.write(alt.Chart(data6665TGCT10).mark_bar().encode( 
+    st.write(dataaw6665TGCT10) 
+    st.write(alt.Chart(dataaw6665TGCT10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '9': 
-    st.write(data6666TGCT9) 
-    st.write(alt.Chart(data6666TGCT9).mark_bar().encode( 
+    st.write(dataaw6666TGCT9) 
+    st.write(alt.Chart(dataaw6666TGCT9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '8': 
-    st.write(data6667TGCT8) 
-    st.write(alt.Chart(data6667TGCT8).mark_bar().encode( 
+    st.write(dataaw6667TGCT8) 
+    st.write(alt.Chart(dataaw6667TGCT8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '7': 
-    st.write(data6668TGCT7) 
-    st.write(alt.Chart(data6668TGCT7).mark_bar().encode( 
+    st.write(dataaw6668TGCT7) 
+    st.write(alt.Chart(dataaw6668TGCT7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '6': 
-    st.write(data6669TGCT6) 
-    st.write(alt.Chart(data6669TGCT6).mark_bar().encode( 
+    st.write(dataaw6669TGCT6) 
+    st.write(alt.Chart(dataaw6669TGCT6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '5': 
-    st.write(data6670TGCT5) 
-    st.write(alt.Chart(data6670TGCT5).mark_bar().encode( 
+    st.write(dataaw6670TGCT5) 
+    st.write(alt.Chart(dataaw6670TGCT5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '4': 
-    st.write(data6671TGCT4) 
-    st.write(alt.Chart(data6671TGCT4).mark_bar().encode( 
+    st.write(dataaw6671TGCT4) 
+    st.write(alt.Chart(dataaw6671TGCT4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '3': 
-    st.write(data6672TGCT3) 
-    st.write(alt.Chart(data6672TGCT3).mark_bar().encode( 
+    st.write(dataaw6672TGCT3) 
+    st.write(alt.Chart(dataaw6672TGCT3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '2': 
-    st.write(data6673TGCT2) 
-    st.write(alt.Chart(data6673TGCT2).mark_bar().encode( 
+    st.write(dataaw6673TGCT2) 
+    st.write(alt.Chart(dataaw6673TGCT2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'TGCT' and option2 == 'Asian and white' and color == '1': 
-    st.write(data6674TGCT1) 
-    st.write(alt.Chart(data6674TGCT1).mark_bar().encode( 
+    st.write(dataaw6674TGCT1) 
+    st.write(alt.Chart(dataaw6674TGCT1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
+
 if option == 'THCA' and option2 == 'Asian and white' and color == '10': 
-    st.write(data6718THCA10) 
-    st.write(alt.Chart(data6718THCA10).mark_bar().encode( 
+    st.write(dataaw6718THCA10) 
+    st.write(alt.Chart(dataaw6718THCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '9': 
-    st.write(data6719THCA9) 
-    st.write(alt.Chart(data6719THCA9).mark_bar().encode( 
+    st.write(dataaw6719THCA9) 
+    st.write(alt.Chart(dataaw6719THCA9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '8': 
-    st.write(data6720THCA8) 
-    st.write(alt.Chart(data6720THCA8).mark_bar().encode( 
+    st.write(dataaw6720THCA8) 
+    st.write(alt.Chart(dataaw6720THCA8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '7': 
-    st.write(data6721THCA7) 
-    st.write(alt.Chart(data6721THCA7).mark_bar().encode( 
+    st.write(dataaw6721THCA7) 
+    st.write(alt.Chart(dataaw6721THCA7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '6': 
-    st.write(data6722THCA6) 
-    st.write(alt.Chart(data6722THCA6).mark_bar().encode( 
+    st.write(dataaw6722THCA6) 
+    st.write(alt.Chart(dataaw6722THCA6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '5': 
-    st.write(data6723THCA5) 
-    st.write(alt.Chart(data6723THCA5).mark_bar().encode( 
+    st.write(dataaw6723THCA5) 
+    st.write(alt.Chart(dataaw6723THCA5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '4': 
-    st.write(data6724THCA4) 
-    st.write(alt.Chart(data6724THCA4).mark_bar().encode( 
+    st.write(dataaw6724THCA4) 
+    st.write(alt.Chart(dataaw6724THCA4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '3': 
-    st.write(data6725THCA3) 
-    st.write(alt.Chart(data6725THCA3).mark_bar().encode( 
+    st.write(dataaw6725THCA3) 
+    st.write(alt.Chart(dataaw6725THCA3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '2': 
-    st.write(data6726THCA2) 
-    st.write(alt.Chart(data6726THCA2).mark_bar().encode( 
+    st.write(dataaw6726THCA2) 
+    st.write(alt.Chart(dataaw6726THCA2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THCA' and option2 == 'Asian and white' and color == '1': 
-    st.write(data6727THCA1) 
-    st.write(alt.Chart(data6727THCA1).mark_bar().encode( 
+    st.write(dataaw6727THCA1) 
+    st.write(alt.Chart(dataaw6727THCA1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'THYM' and option2 == 'Asian and white' and color == '6': 
-    st.write(data6728THYM6) 
-    st.write(alt.Chart(data6728THYM6).mark_bar().encode( 
+    st.write(dataaw6728THYM6) 
+    st.write(alt.Chart(dataaw6728THYM6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THYM' and option2 == 'Asian and white' and color == '5': 
-    st.write(data6729THYM5) 
-    st.write(alt.Chart(data6729THYM5).mark_bar().encode( 
+    st.write(dataaw6729THYM5) 
+    st.write(alt.Chart(dataaw6729THYM5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THYM' and option2 == 'Asian and white' and color == '4': 
-    st.write(data6730THYM4) 
-    st.write(alt.Chart(data6730THYM4).mark_bar().encode( 
+    st.write(dataaw6730THYM4) 
+    st.write(alt.Chart(dataaw6730THYM4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THYM' and option2 == 'Asian and white' and color == '3': 
-    st.write(data6731THYM3) 
-    st.write(alt.Chart(data6731THYM3).mark_bar().encode( 
+    st.write(dataaw6731THYM3) 
+    st.write(alt.Chart(dataaw6731THYM3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THYM' and option2 == 'Asian and white' and color == '2': 
-    st.write(data6732THYM2) 
-    st.write(alt.Chart(data6732THYM2).mark_bar().encode( 
+    st.write(dataaw6732THYM2) 
+    st.write(alt.Chart(dataaw6732THYM2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'THYM' and option2 == 'Asian and white' and color == '1': 
-    st.write(data6733THYM1) 
-    st.write(alt.Chart(data6733THYM1).mark_bar().encode( 
+    st.write(dataaw6733THYM1) 
+    st.write(alt.Chart(dataaw6733THYM1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '10': 
-    st.write(data10262UCEC10) 
-    st.write(alt.Chart(data10262UCEC10).mark_bar().encode( 
+    st.write(dataaw10262UCEC10) 
+    st.write(alt.Chart(dataaw10262UCEC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '9': 
-    st.write(data10263UCEC9) 
-    st.write(alt.Chart(data10263UCEC9).mark_bar().encode( 
+    st.write(dataaw10263UCEC9) 
+    st.write(alt.Chart(dataaw10263UCEC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '8': 
-    st.write(data10264UCEC8) 
-    st.write(alt.Chart(data10264UCEC8).mark_bar().encode( 
+    st.write(dataaw10264UCEC8) 
+    st.write(alt.Chart(dataaw10264UCEC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '7': 
-    st.write(data10265UCEC7) 
-    st.write(alt.Chart(data10265UCEC7).mark_bar().encode( 
+    st.write(dataaw10265UCEC7) 
+    st.write(alt.Chart(dataaw10265UCEC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '6': 
-    st.write(data10266UCEC6) 
-    st.write(alt.Chart(data10266UCEC6).mark_bar().encode( 
+    st.write(dataaw10266UCEC6) 
+    st.write(alt.Chart(dataaw10266UCEC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '5': 
-    st.write(data10267UCEC5) 
-    st.write(alt.Chart(data10267UCEC5).mark_bar().encode( 
+    st.write(dataaw10267UCEC5) 
+    st.write(alt.Chart(dataaw10267UCEC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '4': 
-    st.write(data10268UCEC4) 
-    st.write(alt.Chart(data10268UCEC4).mark_bar().encode( 
+    st.write(dataaw10268UCEC4) 
+    st.write(alt.Chart(dataaw10268UCEC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '3': 
-    st.write(data10269UCEC3) 
-    st.write(alt.Chart(data10269UCEC3).mark_bar().encode( 
+    st.write(dataaw10269UCEC3) 
+    st.write(alt.Chart(dataaw10269UCEC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '2': 
-    st.write(data10270UCEC2) 
-    st.write(alt.Chart(data10270UCEC2).mark_bar().encode( 
+    st.write(dataaw10270UCEC2) 
+    st.write(alt.Chart(dataaw10270UCEC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCEC' and option2 == 'Asian and white' and color == '1': 
-    st.write(data10271UCEC1) 
-    st.write(alt.Chart(data10271UCEC1).mark_bar().encode( 
+    st.write(dataaw10271UCEC1) 
+    st.write(alt.Chart(dataaw10271UCEC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 if option == 'UCS' and option2 == 'Asian and white' and color == '10': 
-    st.write(data12415UCS10) 
-    st.write(alt.Chart(data12415UCS10).mark_bar().encode( 
+    st.write(dataaw12415UCS10) 
+    st.write(alt.Chart(dataaw12415UCS10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '9': 
-    st.write(data12416UCS9) 
-    st.write(alt.Chart(data12416UCS9).mark_bar().encode( 
+    st.write(dataaw12416UCS9) 
+    st.write(alt.Chart(dataaw12416UCS9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '8': 
-    st.write(data12417UCS8) 
-    st.write(alt.Chart(data12417UCS8).mark_bar().encode( 
+    st.write(dataaw12417UCS8) 
+    st.write(alt.Chart(dataaw12417UCS8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '7': 
-    st.write(data12418UCS7) 
-    st.write(alt.Chart(data12418UCS7).mark_bar().encode( 
+    st.write(dataaw12418UCS7) 
+    st.write(alt.Chart(dataaw12418UCS7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '6': 
-    st.write(data12419UCS6) 
-    st.write(alt.Chart(data12419UCS6).mark_bar().encode( 
+    st.write(dataaw12419UCS6) 
+    st.write(alt.Chart(dataaw12419UCS6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '5': 
-    st.write(data12420UCS5) 
-    st.write(alt.Chart(data12420UCS5).mark_bar().encode( 
+    st.write(dataaw12420UCS5) 
+    st.write(alt.Chart(dataaw12420UCS5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '4': 
-    st.write(data12421UCS4) 
-    st.write(alt.Chart(data12421UCS4).mark_bar().encode( 
+    st.write(dataaw12421UCS4) 
+    st.write(alt.Chart(dataaw12421UCS4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '3': 
-    st.write(data12422UCS3) 
-    st.write(alt.Chart(data12422UCS3).mark_bar().encode( 
+    st.write(dataaw12422UCS3) 
+    st.write(alt.Chart(dataaw12422UCS3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '2': 
-    st.write(data12423UCS2) 
-    st.write(alt.Chart(data12423UCS2).mark_bar().encode( 
+    st.write(dataaw12423UCS2) 
+    st.write(alt.Chart(dataaw12423UCS2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
@@ -13505,7 +13507,7 @@ if option == 'UCS' and option2 == 'Asian and white' and color == '2':
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '1': 
     st.write(dataaw12424UCS1) 
-    st.write(alt.Chart(data12424UCS1).mark_bar().encode( 
+    st.write(alt.Chart(dataaw12424UCS1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
         y='Asian_p', 
