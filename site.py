@@ -11408,3 +11408,82 @@ if option == 'ACC' and option2 == 'Asian and white' and color == '1':
         y='mutationrate',
 
         ))
+if option == 'BLCA' and option2 == 'Asian and white' and color == '10': 
+st.write(data189BLCA10) 
+ st.write(alt.Chart(data189BLCA10).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '9': 
+ st.write(data190BLCA9) 
+ st.write(alt.Chart(data190BLCA9).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '8': 
+ st.write(data191BLCA8) 
+ st.write(alt.Chart(data191BLCA8).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '7': 
+ st.write(data192BLCA7) 
+ st.write(alt.Chart(data192BLCA7).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '6': 
+ st.write(data193BLCA6) 
+ st.write(alt.Chart(data193BLCA6).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '5': 
+ st.write(data194BLCA5) 
+ st.write(alt.Chart(data194BLCA5).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '4': 
+ st.write(data195BLCA4) 
+ st.write(alt.Chart(data195BLCA4).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '3': 
+ st.write(data196BLCA3) 
+ st.write(alt.Chart(data196BLCA3).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '2': 
+ st.write(data197BLCA2) 
+ st.write(alt.Chart(data197BLCA2).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
+ 
+if option == 'BLCA' and option2 == 'Asian and white' and color == '1': 
+ st.write(data198BLCA1) 
+ st.write(alt.Chart(data198BLCA1).mark_bar().encode( 
+ 
+ x=alt.X('Gene', sort=None),
+ y='Asian_p', 
+ )) 
