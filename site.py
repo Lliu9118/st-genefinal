@@ -10468,9 +10468,7 @@ if option == 'THCA' and option2 == 'Asian' and color == '25':
         x=alt.X('Gene', sort=None),
         y='mutationrate', 
         )) 
- df = pd.DataFrame([['A', 10, 20, 10, 30], ['B', 20, 25, 15, 25], ['C', 12, 15, 19, 6],
-                   ['D', 10, 29, 13, 19]],
-                  columns=['Team', 'Round 1', 'Round 2', 'Round 3', 'Round 4'])
+df = pd.DataFrame([['A', 10, 20, 10, 30], ['B', 20, 25, 15, 25], ['C', 12, 15, 19, 6], ['D', 10, 29, 13, 19]], columns=['Team', 'Round 1', 'Round 2', 'Round 3', 'Round 4'])
 if option == 'THCA' and option2 == 'Asian' and color == '24': 
    st.write(data45442THCA24) 
    st.write(alt.Chart(data45442THCA24).mark_bar().encode( 
