@@ -11453,7 +11453,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '10':
     st.write(alt.Chart(dataaw189BLCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '9': 
@@ -11461,7 +11461,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '9':
     st.write(alt.Chart(dataaw190BLCA9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '8': 
@@ -11469,7 +11469,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '8':
     st.write(alt.Chart(dataaw191BLCA8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '7': 
@@ -11477,7 +11477,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '7':
     st.write(alt.Chart(dataaw192BLCA7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '6': 
@@ -11485,7 +11485,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '6':
     st.write(alt.Chart(dataaw193BLCA6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '5': 
@@ -11493,7 +11493,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '5':
     st.write(alt.Chart(dataaw194BLCA5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '4': 
@@ -11501,7 +11501,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '4':
     st.write(alt.Chart(dataaw195BLCA4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '3': 
@@ -11509,7 +11509,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '3':
     st.write(alt.Chart(dataaw196BLCA3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '2': 
@@ -11517,7 +11517,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '2':
     st.write(alt.Chart(dataaw197BLCA2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '1': 
@@ -11525,7 +11525,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '1':
     st.write(alt.Chart(dataaw198BLCA1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        y='Asian_p', 
+        # y='Asian_p', 
         )) 
 
 if option == 'BRCA' and option2 == 'Asian and white' and color == '10': 
