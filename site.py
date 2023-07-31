@@ -10468,7 +10468,9 @@ if option == 'THCA' and option2 == 'Asian' and color == '25':
         x=alt.X('Gene', sort=None),
         y='mutationrate', 
         )) 
- 
+ df = pd.DataFrame([['A', 10, 20, 10, 30], ['B', 20, 25, 15, 25], ['C', 12, 15, 19, 6],
+                   ['D', 10, 29, 13, 19]],
+                  columns=['Team', 'Round 1', 'Round 2', 'Round 3', 'Round 4'])
 if option == 'THCA' and option2 == 'Asian' and color == '24': 
    st.write(data45442THCA24) 
    st.write(alt.Chart(data45442THCA24).mark_bar().encode( 
@@ -11453,7 +11455,7 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '10':
     st.write(alt.Chart(dataaw189BLCA10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
-        # y='Asian_p', 
+	y='Asian_p', 
         )) 
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '9': 
@@ -13546,10 +13548,14 @@ if option == 'UCS' and option2 == 'Asian and white' and color == '2':
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '1': 
-    st.write(dataaw12424UCS1) 
-    st.write(alt.Chart(dataaw12424UCS1).mark_bar().encode( 
+    # st.write(dataaw12424UCS1) 
+    # st.write(alt.Chart(dataaw12424UCS1).mark_bar().encode( 
  
-        x=alt.X('Gene', sort=None),
-        y='mutationrate', 
-        )) 
+    #     x=alt.X('Gene', sort=None),
+    #     y='mutationrate', 
+    #     )) 
+	df.plot(x='Team',
+        kind='bar',
+        stacked=False,
+        title='Grouped Bar Graph with dataframe')
 
