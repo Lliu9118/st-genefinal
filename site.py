@@ -13504,7 +13504,7 @@ if option == 'UCS' and option2 == 'Asian and white' and color == '2':
         )) 
 
 if option == 'UCS' and option2 == 'Asian and white' and color == '1': 
-    st.write(data12424UCS1) 
+    st.write(dataaw12424UCS1) 
     st.write(alt.Chart(data12424UCS1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
