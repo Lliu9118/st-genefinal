@@ -4,7 +4,7 @@ import array as ary
 import numpy as np
 import pandas as pd
 import altair as alt
-import matplotlib.pyploy as plt
+import matplotlib.pyplab as plt
 language = ['C', 'python', 'Java']
 men = [1,2,3]
 women = [5,6,7]
