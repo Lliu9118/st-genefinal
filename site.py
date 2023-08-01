@@ -1,4 +1,4 @@
-!pip install matplotlib
+pip install matplotlib
 import matplotlib.pyploy as plt
 import requests
 import streamlit as st
