@@ -4,21 +4,6 @@ import array as ary
 import numpy as np
 import pandas as pd
 import altair as alt
-import matplotlib.pyplab as plt
-language = ['C', 'python', 'Java']
-men = [1,2,3]
-women = [5,6,7]
-x=np.arange(len(language))
-width = 0.35
-fig, ax = plt.subplots()
-bar1 = ax.bar(x - width/2, men, width, label = 'Men')
-bar2 = ax.bar(x + width/2, women, width, label = 'Women')
-ax.set_xticks(x)
-ax.set_xticklabels(language)
-ax.legend()
-ax.bar_label(bar1, padding=3)
-ax.bar_label(bar2, padding=3)
-plt.show
 
 
 st.set_page_config(page_title="My Webpage", page_icon=":skull:", layout="wide")
