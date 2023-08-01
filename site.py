@@ -11619,63 +11619,63 @@ if option == 'UCS' and option2 == 'Asian' and color == '1':
         )) 
 if option == 'ACC' and option2 == 'Asian and white' and color == '10':
   
-    st.write(alt.Chart(datacompawACC1).mark_bar().encode(
+    st.write(alt.Chart(dataaw46ACC10).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '9':
   
-    st.write(alt.Chart(datacompawACC2).mark_bar().encode(
+    st.write(alt.Chart(dataaw47ACC9).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '8':
   
-    st.write(alt.Chart(datacompawACC3).mark_bar().encode(
+    st.write(alt.Chart(dataaw48ACC8).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '7':
   
-    st.write(alt.Chart(datacompawACC4).mark_bar().encode(
+    st.write(alt.Chart(dataaw49ACC7).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '6':
   
-    st.write(alt.Chart(datacompawACC5).mark_bar().encode(
+    st.write(alt.Chart(dataaw50ACC6).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '5':
   
-    st.write(alt.Chart(datacompawACC6).mark_bar().encode(
+    st.write(alt.Chart(dataaw51ACC5).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '4':
   
-    st.write(alt.Chart(datacompawACC7).mark_bar().encode(
+    st.write(alt.Chart(dataaw52ACC4).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '3':
   
-    st.write(alt.Chart(datacompawACC8).mark_bar().encode(
+    st.write(alt.Chart(dataaw53ACC3).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
         ))
 if option == 'ACC' and option2 == 'Asian and white' and color == '2':
   
-    st.write(alt.Chart(datacompawACC9).mark_bar().encode(
+    st.write(alt.Chart(dataaw54ACC2).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
@@ -11683,7 +11683,7 @@ if option == 'ACC' and option2 == 'Asian and white' and color == '2':
 
 if option == 'ACC' and option2 == 'Asian and white' and color == '1':
   
-    st.write(alt.Chart(datacompawACC10).mark_bar().encode(
+    st.write(alt.Chart(dataaw55ACC1).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='mutationrate',
 
