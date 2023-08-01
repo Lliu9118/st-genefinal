@@ -11454,6 +11454,16 @@ if option == 'BLCA' and option2 == 'Asian and white' and color == '10':
         x=alt.X('Gene', sort=None),
 	y='Asian_p', 
         )) 
+    st.write(alt.Chart(dataaw189BLCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+	y='White_p', 
+    	))
+    st.write(alt.Chart(dataaw189BLCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+	y='p_aw', 
+    	))
 
 if option == 'BLCA' and option2 == 'Asian and white' and color == '9': 
     st.write(dataaw190BLCA9) 
