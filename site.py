@@ -3994,6 +3994,46 @@ dataaw12424UCS1 = pd.DataFrame({'Gene': ['ENSG00000006071'],
 'Asian_mutationrate': [0.666666667,],
 'White_mutationrate': [0.0,],
 'p_aw': [0.002775208,],})
+dataab18BLCA10 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573', 'ENSG00000100413', 'ENSG00000105609', 'ENSG00000110436', 'ENSG00000114805', 'ENSG00000116044', 'ENSG00000116299'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab19BLCA9 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573', 'ENSG00000100413', 'ENSG00000105609', 'ENSG00000110436', 'ENSG00000114805', 'ENSG00000116044'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab20BLCA8 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573', 'ENSG00000100413', 'ENSG00000105609', 'ENSG00000110436', 'ENSG00000114805'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab21BLCA7 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573', 'ENSG00000100413', 'ENSG00000105609', 'ENSG00000110436'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab22BLCA6 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573', 'ENSG00000100413', 'ENSG00000105609'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab23BLCA5 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573', 'ENSG00000100413'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab24BLCA4 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976', 'ENSG00000080573'],
+'Asian_p': [0.0, 0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001, 0.036969001,],})
+dataab25BLCA3 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485', 'ENSG00000068976'],
+'Asian_p': [0.0, 0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001, 0.036969001,],})
+dataab26BLCA2 = pd.DataFrame({'Gene': [''ENSG00000002746', 'ENSG00000062485'],
+'Asian_p': [0.0, 0.0,],
+'Black_p': [0.130434783, 0.130434783,],
+'p_ab': [0.036969001, 0.036969001,],})
+dataab27BLCA1 = pd.DataFrame({'Gene': [''ENSG00000002746'],
+'Asian_p': [0.0,],
+'Black_p': [0.130434783,],
+'p_ab': [0.036969001,],})
 
 with st.container():
     st.title(":blue[AVaRD]")
@@ -4019,7 +4059,7 @@ with st.container():
     st.write('You selected:', option)
     option2 = st.selectbox(
         'Which race would you like to view?',
-        ('Asian', 'White', 'Black', 'Asian and white'))
+        ('Asian', 'White', 'Black', 'Asian and white', 'Asian and black'))
     st.write('You selected:', option2)
     color = st.select_slider(
         'Select the amount of genes you would like to view.',
@@ -14653,4 +14693,114 @@ if option == 'UCS' and option2 == 'Asian and white' and color == '1':
     st.write(alt.Chart(dataaw12424UCS1).mark_bar().encode(
         x=alt.X('Gene', sort=None),
         y='White_mutationrate', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '10': 
+    st.write(dataab18BLCA10) 
+    st.write(alt.Chart(datab18BLCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab18BLCA10).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '9': 
+    st.write(dataab19BLCA9) 
+    st.write(alt.Chart(datab19BLCA9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab19BLCA9).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '8': 
+    st.write(dataab20BLCA8) 
+    st.write(alt.Chart(datab20BLCA8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab20BLCA8).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '7': 
+    st.write(dataab21BLCA7) 
+    st.write(alt.Chart(datab21BLCA7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab21BLCA7).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '6': 
+    st.write(dataab22BLCA6) 
+    st.write(alt.Chart(datab22BLCA6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab22BLCA6).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '5': 
+    st.write(dataab23BLCA5) 
+    st.write(alt.Chart(datab23BLCA5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab23BLCA5).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '4': 
+    st.write(dataab24BLCA4) 
+    st.write(alt.Chart(datab24BLCA4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab24BLCA4).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '3': 
+    st.write(dataab25BLCA3) 
+    st.write(alt.Chart(datab25BLCA3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab25BLCA3).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '2': 
+    st.write(dataab26BLCA2) 
+    st.write(alt.Chart(datab26BLCA2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab26BLCA2).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        ))
+if option == 'BLCA' and option2 == 'Asian and black' and color == '1': 
+    st.write(dataab27BLCA1) 
+    st.write(alt.Chart(datab27BLCA1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Asian_p', 
+        ))
+    st.write(alt.Chart(dataab27BLCA1).mark_bar().encode(
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
         ))
