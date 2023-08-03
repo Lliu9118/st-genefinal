@@ -5851,7 +5851,7 @@ with st.container():
     st.write('You selected:', option)
     option2 = st.selectbox(
         'Which race would you like to view?',
-        ('Asian', 'White', 'Black', 'Asian and white', 'Asian and black'))
+        ('Asian', 'White', 'Black', 'Asian and white', 'Asian and black', "White and black"))
     st.write('You selected:', option2)
     color = st.select_slider(
         'Select the amount of genes you would like to view.',
