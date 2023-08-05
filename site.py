@@ -23302,7 +23302,7 @@ if option == 'UCS' and option2 == 'White vs black' and color == '1':
         y='Black_mutationrate', 
     )) 
 if option == 'ACC' and option2 == 'Black' and color == '10': 
-    st.write(data8ACC10) 
+    st.write(datab8ACC10) 
     st.write(alt.Chart(data8ACC10).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23310,7 +23310,7 @@ if option == 'ACC' and option2 == 'Black' and color == '10':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '9': 
-    st.write(data9ACC9) 
+    st.write(datab9ACC9) 
     st.write(alt.Chart(data9ACC9).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23318,7 +23318,7 @@ if option == 'ACC' and option2 == 'Black' and color == '9':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '8': 
-    st.write(data10ACC8) 
+    st.write(datab10ACC8) 
     st.write(alt.Chart(data10ACC8).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23326,7 +23326,7 @@ if option == 'ACC' and option2 == 'Black' and color == '8':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '7': 
-    st.write(data11ACC7) 
+    st.write(datab11ACC7) 
     st.write(alt.Chart(data11ACC7).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23334,7 +23334,7 @@ if option == 'ACC' and option2 == 'Black' and color == '7':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '6': 
-    st.write(data12ACC6) 
+    st.write(datab12ACC6) 
     st.write(alt.Chart(data12ACC6).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23342,7 +23342,7 @@ if option == 'ACC' and option2 == 'Black' and color == '6':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '5': 
-    st.write(data13ACC5) 
+    st.write(datab13ACC5) 
     st.write(alt.Chart(data13ACC5).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23350,7 +23350,7 @@ if option == 'ACC' and option2 == 'Black' and color == '5':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '4': 
-    st.write(data14ACC4) 
+    st.write(datab14ACC4) 
     st.write(alt.Chart(data14ACC4).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23358,7 +23358,7 @@ if option == 'ACC' and option2 == 'Black' and color == '4':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '3': 
-    st.write(data15ACC3) 
+    st.write(datab15ACC3) 
     st.write(alt.Chart(data15ACC3).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23366,7 +23366,7 @@ if option == 'ACC' and option2 == 'Black' and color == '3':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '2': 
-    st.write(data16ACC2) 
+    st.write(datab16ACC2) 
     st.write(alt.Chart(data16ACC2).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
@@ -23374,7 +23374,7 @@ if option == 'ACC' and option2 == 'Black' and color == '2':
     )) 
  
 if option == 'ACC' and option2 == 'Black' and color == '1': 
-    st.write(data17ACC1) 
+    st.write(datab17ACC1) 
     st.write(alt.Chart(data17ACC1).mark_bar().encode( 
  
         x=alt.X('Gene', sort=None),
