@@ -23380,3 +23380,2374 @@ if option == 'ACC' and option2 == 'Black' and color == '1':
         x=alt.X('Gene', sort=None),
         y='Black_p', 
     )) 
+
+if option == 'BLCA' and option2 == 'Black' and color == '10': 
+    st.write(datab2646BLCA10) 
+    st.write(alt.Chart(datab2646BLCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '9': 
+    st.write(datab2647BLCA9) 
+    st.write(alt.Chart(datab2647BLCA9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '8': 
+    st.write(datab2648BLCA8) 
+    st.write(alt.Chart(datab2648BLCA8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '7': 
+    st.write(datab2649BLCA7) 
+    st.write(alt.Chart(datab2649BLCA7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '6': 
+    st.write(datab2650BLCA6) 
+    st.write(alt.Chart(datab2650BLCA6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '5': 
+    st.write(datab2651BLCA5) 
+    st.write(alt.Chart(datab2651BLCA5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '4': 
+    st.write(datab2652BLCA4) 
+    st.write(alt.Chart(datab2652BLCA4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '3': 
+    st.write(datab2653BLCA3) 
+    st.write(alt.Chart(datab2653BLCA3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '2': 
+    st.write(datab2654BLCA2) 
+    st.write(alt.Chart(datab2654BLCA2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BLCA' and option2 == 'Black' and color == '1': 
+    st.write(datab2655BLCA1) 
+    st.write(alt.Chart(datab2655BLCA1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'BRCA' and option2 == 'Black' and color == '10': 
+    st.write(datab8601BRCA10) 
+    st.write(alt.Chart(datab8601BRCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '9': 
+    st.write(datab8602BRCA9) 
+    st.write(alt.Chart(datab8602BRCA9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '8': 
+    st.write(datab8603BRCA8) 
+    st.write(alt.Chart(datab8603BRCA8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '7': 
+    st.write(datab8604BRCA7) 
+    st.write(alt.Chart(datab8604BRCA7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '6': 
+    st.write(datab8605BRCA6) 
+    st.write(alt.Chart(datab8605BRCA6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '5': 
+    st.write(datab8606BRCA5) 
+    st.write(alt.Chart(datab8606BRCA5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '4': 
+    st.write(datab8607BRCA4) 
+    st.write(alt.Chart(datab8607BRCA4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '3': 
+    st.write(datab8608BRCA3) 
+    st.write(alt.Chart(datab8608BRCA3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '2': 
+    st.write(datab8609BRCA2) 
+    st.write(alt.Chart(datab8609BRCA2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'BRCA' and option2 == 'Black' and color == '1': 
+    st.write(datab8610BRCA1) 
+    st.write(alt.Chart(datab8610BRCA1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'CESC' and option2 == 'Black' and color == '10': 
+    st.write(datab12286CESC10) 
+    st.write(alt.Chart(datab12286CESC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '9': 
+    st.write(datab12287CESC9) 
+    st.write(alt.Chart(datab12287CESC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '8': 
+    st.write(datab12288CESC8) 
+    st.write(alt.Chart(datab12288CESC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '7': 
+    st.write(datab12289CESC7) 
+    st.write(alt.Chart(datab12289CESC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '6': 
+    st.write(datab12290CESC6) 
+    st.write(alt.Chart(datab12290CESC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '5': 
+    st.write(datab12291CESC5) 
+    st.write(alt.Chart(datab12291CESC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '4': 
+    st.write(datab12292CESC4) 
+    st.write(alt.Chart(datab12292CESC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '3': 
+    st.write(datab12293CESC3) 
+    st.write(alt.Chart(datab12293CESC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '2': 
+    st.write(datab12294CESC2) 
+    st.write(alt.Chart(datab12294CESC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CESC' and option2 == 'Black' and color == '1': 
+    st.write(datab12295CESC1) 
+    st.write(alt.Chart(datab12295CESC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'CHOL' and option2 == 'Black' and color == '10': 
+    st.write(datab12410CHOL10) 
+    st.write(alt.Chart(datab12410CHOL10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '9': 
+    st.write(datab12411CHOL9) 
+    st.write(alt.Chart(datab12411CHOL9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '8': 
+    st.write(datab12412CHOL8) 
+    st.write(alt.Chart(datab12412CHOL8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '7': 
+    st.write(datab12413CHOL7) 
+    st.write(alt.Chart(datab12413CHOL7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '6': 
+    st.write(datab12414CHOL6) 
+    st.write(alt.Chart(datab12414CHOL6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '5': 
+    st.write(datab12415CHOL5) 
+    st.write(alt.Chart(datab12415CHOL5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '4': 
+    st.write(datab12416CHOL4) 
+    st.write(alt.Chart(datab12416CHOL4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '3': 
+    st.write(datab12417CHOL3) 
+    st.write(alt.Chart(datab12417CHOL3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '2': 
+    st.write(datab12418CHOL2) 
+    st.write(alt.Chart(datab12418CHOL2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'CHOL' and option2 == 'Black' and color == '1': 
+    st.write(datab12419CHOL1) 
+    st.write(alt.Chart(datab12419CHOL1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'COAD' and option2 == 'Black' and color == '10': 
+    st.write(datab20443COAD10) 
+    st.write(alt.Chart(datab20443COAD10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '9': 
+    st.write(datab20444COAD9) 
+    st.write(alt.Chart(datab20444COAD9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '8': 
+    st.write(datab20445COAD8) 
+    st.write(alt.Chart(datab20445COAD8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '7': 
+    st.write(datab20446COAD7) 
+    st.write(alt.Chart(datab20446COAD7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '6': 
+    st.write(datab20447COAD6) 
+    st.write(alt.Chart(datab20447COAD6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '5': 
+    st.write(datab20448COAD5) 
+    st.write(alt.Chart(datab20448COAD5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '4': 
+    st.write(datab20449COAD4) 
+    st.write(alt.Chart(datab20449COAD4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '3': 
+    st.write(datab20450COAD3) 
+    st.write(alt.Chart(datab20450COAD3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '2': 
+    st.write(datab20451COAD2) 
+    st.write(alt.Chart(datab20451COAD2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'COAD' and option2 == 'Black' and color == '1': 
+    st.write(datab20452COAD1) 
+    st.write(alt.Chart(datab20452COAD1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'ESCA' and option2 == 'Black' and color == '10': 
+    st.write(datab20922ESCA10) 
+    st.write(alt.Chart(datab20922ESCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '9': 
+    st.write(datab20923ESCA9) 
+    st.write(alt.Chart(datab20923ESCA9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '8': 
+    st.write(datab20924ESCA8) 
+    st.write(alt.Chart(datab20924ESCA8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '7': 
+    st.write(datab20925ESCA7) 
+    st.write(alt.Chart(datab20925ESCA7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '6': 
+    st.write(datab20926ESCA6) 
+    st.write(alt.Chart(datab20926ESCA6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '5': 
+    st.write(datab20927ESCA5) 
+    st.write(alt.Chart(datab20927ESCA5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '4': 
+    st.write(datab20928ESCA4) 
+    st.write(alt.Chart(datab20928ESCA4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '3': 
+    st.write(datab20929ESCA3) 
+    st.write(alt.Chart(datab20929ESCA3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '2': 
+    st.write(datab20930ESCA2) 
+    st.write(alt.Chart(datab20930ESCA2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'ESCA' and option2 == 'Black' and color == '1': 
+    st.write(datab20931ESCA1) 
+    st.write(alt.Chart(datab20931ESCA1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'GBM' and option2 == 'Black' and color == '10': 
+    st.write(datab23818GBM10) 
+    st.write(alt.Chart(datab23818GBM10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '9': 
+    st.write(datab23819GBM9) 
+    st.write(alt.Chart(datab23819GBM9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '8': 
+    st.write(datab23820GBM8) 
+    st.write(alt.Chart(datab23820GBM8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '7': 
+    st.write(datab23821GBM7) 
+    st.write(alt.Chart(datab23821GBM7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '6': 
+    st.write(datab23822GBM6) 
+    st.write(alt.Chart(datab23822GBM6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '5': 
+    st.write(datab23823GBM5) 
+    st.write(alt.Chart(datab23823GBM5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '4': 
+    st.write(datab23824GBM4) 
+    st.write(alt.Chart(datab23824GBM4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '3': 
+    st.write(datab23825GBM3) 
+    st.write(alt.Chart(datab23825GBM3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '2': 
+    st.write(datab23826GBM2) 
+    st.write(alt.Chart(datab23826GBM2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'GBM' and option2 == 'Black' and color == '1': 
+    st.write(datab23827GBM1) 
+    st.write(alt.Chart(datab23827GBM1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'HNSC' and option2 == 'Black' and color == '10': 
+    st.write(datab27281HNSC10) 
+    st.write(alt.Chart(datab27281HNSC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '9': 
+    st.write(datab27282HNSC9) 
+    st.write(alt.Chart(datab27282HNSC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '8': 
+    st.write(datab27283HNSC8) 
+    st.write(alt.Chart(datab27283HNSC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '7': 
+    st.write(datab27284HNSC7) 
+    st.write(alt.Chart(datab27284HNSC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '6': 
+    st.write(datab27285HNSC6) 
+    st.write(alt.Chart(datab27285HNSC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '5': 
+    st.write(datab27286HNSC5) 
+    st.write(alt.Chart(datab27286HNSC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '4': 
+    st.write(datab27287HNSC4) 
+    st.write(alt.Chart(datab27287HNSC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '3': 
+    st.write(datab27288HNSC3) 
+    st.write(alt.Chart(datab27288HNSC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '2': 
+    st.write(datab27289HNSC2) 
+    st.write(alt.Chart(datab27289HNSC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'HNSC' and option2 == 'Black' and color == '1': 
+    st.write(datab27290HNSC1) 
+    st.write(alt.Chart(datab27290HNSC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'KICH' and option2 == 'Black' and color == '10': 
+    st.write(datab27346KICH10) 
+    st.write(alt.Chart(datab27346KICH10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '9': 
+    st.write(datab27347KICH9) 
+    st.write(alt.Chart(datab27347KICH9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '8': 
+    st.write(datab27348KICH8) 
+    st.write(alt.Chart(datab27348KICH8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '7': 
+    st.write(datab27349KICH7) 
+    st.write(alt.Chart(datab27349KICH7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '6': 
+    st.write(datab27350KICH6) 
+    st.write(alt.Chart(datab27350KICH6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '5': 
+    st.write(datab27351KICH5) 
+    st.write(alt.Chart(datab27351KICH5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '4': 
+    st.write(datab27352KICH4) 
+    st.write(alt.Chart(datab27352KICH4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '3': 
+    st.write(datab27353KICH3) 
+    st.write(alt.Chart(datab27353KICH3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '2': 
+    st.write(datab27354KICH2) 
+    st.write(alt.Chart(datab27354KICH2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KICH' and option2 == 'Black' and color == '1': 
+    st.write(datab27355KICH1) 
+    st.write(alt.Chart(datab27355KICH1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'KIRC' and option2 == 'Black' and color == '10': 
+    st.write(datab29672KIRC10) 
+    st.write(alt.Chart(datab29672KIRC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '9': 
+    st.write(datab29673KIRC9) 
+    st.write(alt.Chart(datab29673KIRC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '8': 
+    st.write(datab29674KIRC8) 
+    st.write(alt.Chart(datab29674KIRC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '7': 
+    st.write(datab29675KIRC7) 
+    st.write(alt.Chart(datab29675KIRC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '6': 
+    st.write(datab29676KIRC6) 
+    st.write(alt.Chart(datab29676KIRC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '5': 
+    st.write(datab29677KIRC5) 
+    st.write(alt.Chart(datab29677KIRC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '4': 
+    st.write(datab29678KIRC4) 
+    st.write(alt.Chart(datab29678KIRC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '3': 
+    st.write(datab29679KIRC3) 
+    st.write(alt.Chart(datab29679KIRC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '2': 
+    st.write(datab29680KIRC2) 
+    st.write(alt.Chart(datab29680KIRC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRC' and option2 == 'Black' and color == '1': 
+    st.write(datab29681KIRC1) 
+    st.write(alt.Chart(datab29681KIRC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'KIRP' and option2 == 'Black' and color == '10': 
+    st.write(datab32032KIRP10) 
+    st.write(alt.Chart(datab32032KIRP10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '9': 
+    st.write(datab32033KIRP9) 
+    st.write(alt.Chart(datab32033KIRP9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '8': 
+    st.write(datab32034KIRP8) 
+    st.write(alt.Chart(datab32034KIRP8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '7': 
+    st.write(datab32035KIRP7) 
+    st.write(alt.Chart(datab32035KIRP7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '6': 
+    st.write(datab32036KIRP6) 
+    st.write(alt.Chart(datab32036KIRP6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '5': 
+    st.write(datab32037KIRP5) 
+    st.write(alt.Chart(datab32037KIRP5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '4': 
+    st.write(datab32038KIRP4) 
+    st.write(alt.Chart(datab32038KIRP4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '3': 
+    st.write(datab32039KIRP3) 
+    st.write(alt.Chart(datab32039KIRP3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '2': 
+    st.write(datab32040KIRP2) 
+    st.write(alt.Chart(datab32040KIRP2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'KIRP' and option2 == 'Black' and color == '1': 
+    st.write(datab32041KIRP1) 
+    st.write(alt.Chart(datab32041KIRP1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'LAML' and option2 == 'Black' and color == '10': 
+    st.write(datab32183LAML10) 
+    st.write(alt.Chart(datab32183LAML10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '9': 
+    st.write(datab32184LAML9) 
+    st.write(alt.Chart(datab32184LAML9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '8': 
+    st.write(datab32185LAML8) 
+    st.write(alt.Chart(datab32185LAML8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '7': 
+    st.write(datab32186LAML7) 
+    st.write(alt.Chart(datab32186LAML7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '6': 
+    st.write(datab32187LAML6) 
+    st.write(alt.Chart(datab32187LAML6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '5': 
+    st.write(datab32188LAML5) 
+    st.write(alt.Chart(datab32188LAML5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '4': 
+    st.write(datab32189LAML4) 
+    st.write(alt.Chart(datab32189LAML4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '3': 
+    st.write(datab32190LAML3) 
+    st.write(alt.Chart(datab32190LAML3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '2': 
+    st.write(datab32191LAML2) 
+    st.write(alt.Chart(datab32191LAML2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LAML' and option2 == 'Black' and color == '1': 
+    st.write(datab32192LAML1) 
+    st.write(alt.Chart(datab32192LAML1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'LGG' and option2 == 'Black' and color == '10': 
+    st.write(datab32654LGG10) 
+    st.write(alt.Chart(datab32654LGG10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '9': 
+    st.write(datab32655LGG9) 
+    st.write(alt.Chart(datab32655LGG9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '8': 
+    st.write(datab32656LGG8) 
+    st.write(alt.Chart(datab32656LGG8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '7': 
+    st.write(datab32657LGG7) 
+    st.write(alt.Chart(datab32657LGG7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '6': 
+    st.write(datab32658LGG6) 
+    st.write(alt.Chart(datab32658LGG6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '5': 
+    st.write(datab32659LGG5) 
+    st.write(alt.Chart(datab32659LGG5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '4': 
+    st.write(datab32660LGG4) 
+    st.write(alt.Chart(datab32660LGG4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '3': 
+    st.write(datab32661LGG3) 
+    st.write(alt.Chart(datab32661LGG3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '2': 
+    st.write(datab32662LGG2) 
+    st.write(alt.Chart(datab32662LGG2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LGG' and option2 == 'Black' and color == '1': 
+    st.write(datab32663LGG1) 
+    st.write(alt.Chart(datab32663LGG1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'LIHC' and option2 == 'Black' and color == '10': 
+    st.write(datab33793LIHC10) 
+    st.write(alt.Chart(datab33793LIHC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '9': 
+    st.write(datab33794LIHC9) 
+    st.write(alt.Chart(datab33794LIHC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '8': 
+    st.write(datab33795LIHC8) 
+    st.write(alt.Chart(datab33795LIHC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '7': 
+    st.write(datab33796LIHC7) 
+    st.write(alt.Chart(datab33796LIHC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '6': 
+    st.write(datab33797LIHC6) 
+    st.write(alt.Chart(datab33797LIHC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '5': 
+    st.write(datab33798LIHC5) 
+    st.write(alt.Chart(datab33798LIHC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '4': 
+    st.write(datab33799LIHC4) 
+    st.write(alt.Chart(datab33799LIHC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '3': 
+    st.write(datab33800LIHC3) 
+    st.write(alt.Chart(datab33800LIHC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '2': 
+    st.write(datab33801LIHC2) 
+    st.write(alt.Chart(datab33801LIHC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LIHC' and option2 == 'Black' and color == '1': 
+    st.write(datab33802LIHC1) 
+    st.write(alt.Chart(datab33802LIHC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'LUAD' and option2 == 'Black' and color == '10': 
+    st.write(datab40503LUAD10) 
+    st.write(alt.Chart(datab40503LUAD10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '9': 
+    st.write(datab40504LUAD9) 
+    st.write(alt.Chart(datab40504LUAD9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '8': 
+    st.write(datab40505LUAD8) 
+    st.write(alt.Chart(datab40505LUAD8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '7': 
+    st.write(datab40506LUAD7) 
+    st.write(alt.Chart(datab40506LUAD7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '6': 
+    st.write(datab40507LUAD6) 
+    st.write(alt.Chart(datab40507LUAD6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '5': 
+    st.write(datab40508LUAD5) 
+    st.write(alt.Chart(datab40508LUAD5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '4': 
+    st.write(datab40509LUAD4) 
+    st.write(alt.Chart(datab40509LUAD4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '3': 
+    st.write(datab40510LUAD3) 
+    st.write(alt.Chart(datab40510LUAD3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '2': 
+    st.write(datab40511LUAD2) 
+    st.write(alt.Chart(datab40511LUAD2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUAD' and option2 == 'Black' and color == '1': 
+    st.write(datab40512LUAD1) 
+    st.write(alt.Chart(datab40512LUAD1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'LUSC' and option2 == 'Black' and color == '10': 
+    st.write(datab44247LUSC10) 
+    st.write(alt.Chart(datab44247LUSC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '9': 
+    st.write(datab44248LUSC9) 
+    st.write(alt.Chart(datab44248LUSC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '8': 
+    st.write(datab44249LUSC8) 
+    st.write(alt.Chart(datab44249LUSC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '7': 
+    st.write(datab44250LUSC7) 
+    st.write(alt.Chart(datab44250LUSC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '6': 
+    st.write(datab44251LUSC6) 
+    st.write(alt.Chart(datab44251LUSC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '5': 
+    st.write(datab44252LUSC5) 
+    st.write(alt.Chart(datab44252LUSC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '4': 
+    st.write(datab44253LUSC4) 
+    st.write(alt.Chart(datab44253LUSC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '3': 
+    st.write(datab44254LUSC3) 
+    st.write(alt.Chart(datab44254LUSC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '2': 
+    st.write(datab44255LUSC2) 
+    st.write(alt.Chart(datab44255LUSC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'LUSC' and option2 == 'Black' and color == '1': 
+    st.write(datab44256LUSC1) 
+    st.write(alt.Chart(datab44256LUSC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'MESO' and option2 == 'Black' and color == '10': 
+    st.write(datab44266MESO10) 
+    st.write(alt.Chart(datab44266MESO10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '9': 
+    st.write(datab44267MESO9) 
+    st.write(alt.Chart(datab44267MESO9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '8': 
+    st.write(datab44268MESO8) 
+    st.write(alt.Chart(datab44268MESO8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '7': 
+    st.write(datab44269MESO7) 
+    st.write(alt.Chart(datab44269MESO7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '6': 
+    st.write(datab44270MESO6) 
+    st.write(alt.Chart(datab44270MESO6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '5': 
+    st.write(datab44271MESO5) 
+    st.write(alt.Chart(datab44271MESO5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '4': 
+    st.write(datab44272MESO4) 
+    st.write(alt.Chart(datab44272MESO4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '3': 
+    st.write(datab44273MESO3) 
+    st.write(alt.Chart(datab44273MESO3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '2': 
+    st.write(datab44274MESO2) 
+    st.write(alt.Chart(datab44274MESO2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'MESO' and option2 == 'Black' and color == '1': 
+    st.write(datab44275MESO1) 
+    st.write(alt.Chart(datab44275MESO1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'OV' and option2 == 'Black' and color == '10': 
+    st.write(datab46310OV10) 
+    st.write(alt.Chart(datab46310OV10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '9': 
+    st.write(datab46311OV9) 
+    st.write(alt.Chart(datab46311OV9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '8': 
+    st.write(datab46312OV8) 
+    st.write(alt.Chart(datab46312OV8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '7': 
+    st.write(datab46313OV7) 
+    st.write(alt.Chart(datab46313OV7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '6': 
+    st.write(datab46314OV6) 
+    st.write(alt.Chart(datab46314OV6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '5': 
+    st.write(datab46315OV5) 
+    st.write(alt.Chart(datab46315OV5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '4': 
+    st.write(datab46316OV4) 
+    st.write(alt.Chart(datab46316OV4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '3': 
+    st.write(datab46317OV3) 
+    st.write(alt.Chart(datab46317OV3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '2': 
+    st.write(datab46318OV2) 
+    st.write(alt.Chart(datab46318OV2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'OV' and option2 == 'Black' and color == '1': 
+    st.write(datab46319OV1) 
+    st.write(alt.Chart(datab46319OV1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'PAAD' and option2 == 'Black' and color == '10': 
+    st.write(datab46531PAAD10) 
+    st.write(alt.Chart(datab46531PAAD10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '9': 
+    st.write(datab46532PAAD9) 
+    st.write(alt.Chart(datab46532PAAD9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '8': 
+    st.write(datab46533PAAD8) 
+    st.write(alt.Chart(datab46533PAAD8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '7': 
+    st.write(datab46534PAAD7) 
+    st.write(alt.Chart(datab46534PAAD7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '6': 
+    st.write(datab46535PAAD6) 
+    st.write(alt.Chart(datab46535PAAD6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '5': 
+    st.write(datab46536PAAD5) 
+    st.write(alt.Chart(datab46536PAAD5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '4': 
+    st.write(datab46537PAAD4) 
+    st.write(alt.Chart(datab46537PAAD4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '3': 
+    st.write(datab46538PAAD3) 
+    st.write(alt.Chart(datab46538PAAD3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '2': 
+    st.write(datab46539PAAD2) 
+    st.write(alt.Chart(datab46539PAAD2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PAAD' and option2 == 'Black' and color == '1': 
+    st.write(datab46540PAAD1) 
+    st.write(alt.Chart(datab46540PAAD1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'PCPG' and option2 == 'Black' and color == '10': 
+    st.write(datab46702PCPG10) 
+    st.write(alt.Chart(datab46702PCPG10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '9': 
+    st.write(datab46703PCPG9) 
+    st.write(alt.Chart(datab46703PCPG9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '8': 
+    st.write(datab46704PCPG8) 
+    st.write(alt.Chart(datab46704PCPG8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '7': 
+    st.write(datab46705PCPG7) 
+    st.write(alt.Chart(datab46705PCPG7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '6': 
+    st.write(datab46706PCPG6) 
+    st.write(alt.Chart(datab46706PCPG6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '5': 
+    st.write(datab46707PCPG5) 
+    st.write(alt.Chart(datab46707PCPG5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '4': 
+    st.write(datab46708PCPG4) 
+    st.write(alt.Chart(datab46708PCPG4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '3': 
+    st.write(datab46709PCPG3) 
+    st.write(alt.Chart(datab46709PCPG3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '2': 
+    st.write(datab46710PCPG2) 
+    st.write(alt.Chart(datab46710PCPG2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PCPG' and option2 == 'Black' and color == '1': 
+    st.write(datab46711PCPG1) 
+    st.write(alt.Chart(datab46711PCPG1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'PRAD' and option2 == 'Black' and color == '10': 
+    st.write(datab47996PRAD10) 
+    st.write(alt.Chart(datab47996PRAD10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '9': 
+    st.write(datab47997PRAD9) 
+    st.write(alt.Chart(datab47997PRAD9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '8': 
+    st.write(datab47998PRAD8) 
+    st.write(alt.Chart(datab47998PRAD8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '7': 
+    st.write(datab47999PRAD7) 
+    st.write(alt.Chart(datab47999PRAD7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '6': 
+    st.write(datab48000PRAD6) 
+    st.write(alt.Chart(datab48000PRAD6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '5': 
+    st.write(datab48001PRAD5) 
+    st.write(alt.Chart(datab48001PRAD5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '4': 
+    st.write(datab48002PRAD4) 
+    st.write(alt.Chart(datab48002PRAD4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '3': 
+    st.write(datab48003PRAD3) 
+    st.write(alt.Chart(datab48003PRAD3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '2': 
+    st.write(datab48004PRAD2) 
+    st.write(alt.Chart(datab48004PRAD2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'PRAD' and option2 == 'Black' and color == '1': 
+    st.write(datab48005PRAD1) 
+    st.write(alt.Chart(datab48005PRAD1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'READ' and option2 == 'Black' and color == '10': 
+    st.write(datab48502READ10) 
+    st.write(alt.Chart(datab48502READ10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '9': 
+    st.write(datab48503READ9) 
+    st.write(alt.Chart(datab48503READ9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '8': 
+    st.write(datab48504READ8) 
+    st.write(alt.Chart(datab48504READ8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '7': 
+    st.write(datab48505READ7) 
+    st.write(alt.Chart(datab48505READ7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '6': 
+    st.write(datab48506READ6) 
+    st.write(alt.Chart(datab48506READ6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '5': 
+    st.write(datab48507READ5) 
+    st.write(alt.Chart(datab48507READ5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '4': 
+    st.write(datab48508READ4) 
+    st.write(alt.Chart(datab48508READ4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '3': 
+    st.write(datab48509READ3) 
+    st.write(alt.Chart(datab48509READ3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '2': 
+    st.write(datab48510READ2) 
+    st.write(alt.Chart(datab48510READ2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'READ' and option2 == 'Black' and color == '1': 
+    st.write(datab48511READ1) 
+    st.write(alt.Chart(datab48511READ1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'SARC' and option2 == 'Black' and color == '10': 
+    st.write(datab49071SARC10) 
+    st.write(alt.Chart(datab49071SARC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '9': 
+    st.write(datab49072SARC9) 
+    st.write(alt.Chart(datab49072SARC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '8': 
+    st.write(datab49073SARC8) 
+    st.write(alt.Chart(datab49073SARC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '7': 
+    st.write(datab49074SARC7) 
+    st.write(alt.Chart(datab49074SARC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '6': 
+    st.write(datab49075SARC6) 
+    st.write(alt.Chart(datab49075SARC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '5': 
+    st.write(datab49076SARC5) 
+    st.write(alt.Chart(datab49076SARC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '4': 
+    st.write(datab49077SARC4) 
+    st.write(alt.Chart(datab49077SARC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '3': 
+    st.write(datab49078SARC3) 
+    st.write(alt.Chart(datab49078SARC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '2': 
+    st.write(datab49079SARC2) 
+    st.write(alt.Chart(datab49079SARC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SARC' and option2 == 'Black' and color == '1': 
+    st.write(datab49080SARC1) 
+    st.write(alt.Chart(datab49080SARC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'SKCM' and option2 == 'Black' and color == '10': 
+    st.write(datab49087SKCM10) 
+    st.write(alt.Chart(datab49087SKCM10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '9': 
+    st.write(datab49088SKCM9) 
+    st.write(alt.Chart(datab49088SKCM9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '8': 
+    st.write(datab49089SKCM8) 
+    st.write(alt.Chart(datab49089SKCM8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '7': 
+    st.write(datab49090SKCM7) 
+    st.write(alt.Chart(datab49090SKCM7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '6': 
+    st.write(datab49091SKCM6) 
+    st.write(alt.Chart(datab49091SKCM6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '5': 
+    st.write(datab49092SKCM5) 
+    st.write(alt.Chart(datab49092SKCM5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '4': 
+    st.write(datab49093SKCM4) 
+    st.write(alt.Chart(datab49093SKCM4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '3': 
+    st.write(datab49094SKCM3) 
+    st.write(alt.Chart(datab49094SKCM3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '2': 
+    st.write(datab49095SKCM2) 
+    st.write(alt.Chart(datab49095SKCM2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'SKCM' and option2 == 'Black' and color == '1': 
+    st.write(datab49096SKCM1) 
+    st.write(alt.Chart(datab49096SKCM1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'STAD' and option2 == 'Black' and color == '10': 
+    st.write(datab51600STAD10) 
+    st.write(alt.Chart(datab51600STAD10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '9': 
+    st.write(datab51601STAD9) 
+    st.write(alt.Chart(datab51601STAD9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '8': 
+    st.write(datab51602STAD8) 
+    st.write(alt.Chart(datab51602STAD8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '7': 
+    st.write(datab51603STAD7) 
+    st.write(alt.Chart(datab51603STAD7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '6': 
+    st.write(datab51604STAD6) 
+    st.write(alt.Chart(datab51604STAD6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '5': 
+    st.write(datab51605STAD5) 
+    st.write(alt.Chart(datab51605STAD5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '4': 
+    st.write(datab51606STAD4) 
+    st.write(alt.Chart(datab51606STAD4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '3': 
+    st.write(datab51607STAD3) 
+    st.write(alt.Chart(datab51607STAD3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '2': 
+    st.write(datab51608STAD2) 
+    st.write(alt.Chart(datab51608STAD2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'STAD' and option2 == 'Black' and color == '1': 
+    st.write(datab51609STAD1) 
+    st.write(alt.Chart(datab51609STAD1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'TGCT' and option2 == 'Black' and color == '10': 
+    st.write(datab51682TGCT10) 
+    st.write(alt.Chart(datab51682TGCT10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '9': 
+    st.write(datab51683TGCT9) 
+    st.write(alt.Chart(datab51683TGCT9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '8': 
+    st.write(datab51684TGCT8) 
+    st.write(alt.Chart(datab51684TGCT8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '7': 
+    st.write(datab51685TGCT7) 
+    st.write(alt.Chart(datab51685TGCT7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '6': 
+    st.write(datab51686TGCT6) 
+    st.write(alt.Chart(datab51686TGCT6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '5': 
+    st.write(datab51687TGCT5) 
+    st.write(alt.Chart(datab51687TGCT5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '4': 
+    st.write(datab51688TGCT4) 
+    st.write(alt.Chart(datab51688TGCT4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '3': 
+    st.write(datab51689TGCT3) 
+    st.write(alt.Chart(datab51689TGCT3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '2': 
+    st.write(datab51690TGCT2) 
+    st.write(alt.Chart(datab51690TGCT2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'TGCT' and option2 == 'Black' and color == '1': 
+    st.write(datab51691TGCT1) 
+    st.write(alt.Chart(datab51691TGCT1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'THCA' and option2 == 'Black' and color == '10': 
+    st.write(datab51959THCA10) 
+    st.write(alt.Chart(datab51959THCA10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '9': 
+    st.write(datab51960THCA9) 
+    st.write(alt.Chart(datab51960THCA9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '8': 
+    st.write(datab51961THCA8) 
+    st.write(alt.Chart(datab51961THCA8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '7': 
+    st.write(datab51962THCA7) 
+    st.write(alt.Chart(datab51962THCA7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '6': 
+    st.write(datab51963THCA6) 
+    st.write(alt.Chart(datab51963THCA6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '5': 
+    st.write(datab51964THCA5) 
+    st.write(alt.Chart(datab51964THCA5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '4': 
+    st.write(datab51965THCA4) 
+    st.write(alt.Chart(datab51965THCA4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '3': 
+    st.write(datab51966THCA3) 
+    st.write(alt.Chart(datab51966THCA3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '2': 
+    st.write(datab51967THCA2) 
+    st.write(alt.Chart(datab51967THCA2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THCA' and option2 == 'Black' and color == '1': 
+    st.write(datab51968THCA1) 
+    st.write(alt.Chart(datab51968THCA1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'THYM' and option2 == 'Black' and color == '10': 
+    st.write(datab52013THYM10) 
+    st.write(alt.Chart(datab52013THYM10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '9': 
+    st.write(datab52014THYM9) 
+    st.write(alt.Chart(datab52014THYM9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '8': 
+    st.write(datab52015THYM8) 
+    st.write(alt.Chart(datab52015THYM8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '7': 
+    st.write(datab52016THYM7) 
+    st.write(alt.Chart(datab52016THYM7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '6': 
+    st.write(datab52017THYM6) 
+    st.write(alt.Chart(datab52017THYM6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '5': 
+    st.write(datab52018THYM5) 
+    st.write(alt.Chart(datab52018THYM5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '4': 
+    st.write(datab52019THYM4) 
+    st.write(alt.Chart(datab52019THYM4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '3': 
+    st.write(datab52020THYM3) 
+    st.write(alt.Chart(datab52020THYM3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '2': 
+    st.write(datab52021THYM2) 
+    st.write(alt.Chart(datab52021THYM2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'THYM' and option2 == 'Black' and color == '1': 
+    st.write(datab52022THYM1) 
+    st.write(alt.Chart(datab52022THYM1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'UCEC' and option2 == 'Black' and color == '10': 
+    st.write(datab64983UCEC10) 
+    st.write(alt.Chart(datab64983UCEC10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '9': 
+    st.write(datab64984UCEC9) 
+    st.write(alt.Chart(datab64984UCEC9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '8': 
+    st.write(datab64985UCEC8) 
+    st.write(alt.Chart(datab64985UCEC8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '7': 
+    st.write(datab64986UCEC7) 
+    st.write(alt.Chart(datab64986UCEC7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '6': 
+    st.write(datab64987UCEC6) 
+    st.write(alt.Chart(datab64987UCEC6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '5': 
+    st.write(datab64988UCEC5) 
+    st.write(alt.Chart(datab64988UCEC5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '4': 
+    st.write(datab64989UCEC4) 
+    st.write(alt.Chart(datab64989UCEC4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '3': 
+    st.write(datab64990UCEC3) 
+    st.write(alt.Chart(datab64990UCEC3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '2': 
+    st.write(datab64991UCEC2) 
+    st.write(alt.Chart(datab64991UCEC2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCEC' and option2 == 'Black' and color == '1': 
+    st.write(datab64992UCEC1) 
+    st.write(alt.Chart(datab64992UCEC1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+if option == 'UCS' and option2 == 'Black' and color == '10': 
+    st.write(datab65555UCS10) 
+    st.write(alt.Chart(datab65555UCS10).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '9': 
+    st.write(datab65556UCS9) 
+    st.write(alt.Chart(datab65556UCS9).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '8': 
+    st.write(datab65557UCS8) 
+    st.write(alt.Chart(datab65557UCS8).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '7': 
+    st.write(datab65558UCS7) 
+    st.write(alt.Chart(datab65558UCS7).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '6': 
+    st.write(datab65559UCS6) 
+    st.write(alt.Chart(datab65559UCS6).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '5': 
+    st.write(datab65560UCS5) 
+    st.write(alt.Chart(datab65560UCS5).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '4': 
+    st.write(datab65561UCS4) 
+    st.write(alt.Chart(datab65561UCS4).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '3': 
+    st.write(datab65562UCS3) 
+    st.write(alt.Chart(datab65562UCS3).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '2': 
+    st.write(datab65563UCS2) 
+    st.write(alt.Chart(datab65563UCS2).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
+ 
+if option == 'UCS' and option2 == 'Black' and color == '1': 
+    st.write(datab65564UCS1) 
+    st.write(alt.Chart(datab65564UCS1).mark_bar().encode( 
+ 
+        x=alt.X('Gene', sort=None),
+        y='Black_p', 
+        )) 
