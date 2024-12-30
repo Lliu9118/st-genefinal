@@ -7121,12 +7121,10 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.header("Our Goal")
-        st.write("##")
         st.write("In past research on the correlation between race and the frequency of cancer within those races, researchers lacked an efficient and simple way to gain access to the most prevalent cancerous genes by race. Our interactive tool strives to assist the further research on the topic of cancer and race. With a few clicks, researchers of the future will be able to easily gain access to the most prevalent genes within affected patients.")
  
     with left_column:
         st.header("How to Use")
-        st.write("##")
         st.write("Simply select the type of cancer you would like to analyze followed by the race you would like to view mutations for. If you would like to compare two races, select the comparison options from the race dropdown. Then, proceed to the slider to select the number of genes you would like to view or compare. Some cancers have a smaller number of genes with data than other types, so if nothing appears upon your request, try selecting fewer genes.")
   
     option = st.selectbox(
